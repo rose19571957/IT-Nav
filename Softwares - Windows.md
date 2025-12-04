@@ -61,6 +61,8 @@ Text Editor
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Notepad++ |[notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)|<img src="https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/notepad-plus-plus/notepad-plus-plus?style=for-the-badge" />|
+Notepad3|[rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3)|<img src="https://img.shields.io/github/stars/rizonesoft/Notepad3?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/rizonesoft/Notepad3?style=for-the-badge" />|
+
 
 # Compare Tool
 Name| Address | Desc
