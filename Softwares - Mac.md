@@ -83,7 +83,12 @@ Name| Address | Star| Last Update
 Stats|[exelban/stats](https://github.com/exelban/stats)|<img src="https://img.shields.io/github/stars/exelban/stats?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/exelban/stats?style=for-the-badge" />
 
 
-# Network Proxy
+# Player
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+VLC|[videolan/vlc](https://github.com/videolan/vlc)|<img src="https://img.shields.io/github/stars/videolan/vlc?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/videolan/vlc?style=for-the-badge" />|
+
+# Proxy
 Name| Address |Desc
 -|-|-|
 Open VPN|[openvpn.net](https://openvpn.net)|
@@ -92,11 +97,11 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 OpenVPN  |[OpenVPN/openvpn](https://github.com/OpenVPN/openvpn)|<img src="https://img.shields.io/github/stars/OpenVPN/openvpn?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/OpenVPN/openvpn?style=for-the-badge" />|
 
-
-# Player
+Switcher
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-VLC|[videolan/vlc](https://github.com/videolan/vlc)|<img src="https://img.shields.io/github/stars/videolan/vlc?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/videolan/vlc?style=for-the-badge" />|
+MacOS Proxy Manager|[ZhiaDev/mac-proxy-manager](https://github.com/ZhiaDev/mac-proxy-manager)|<img src="https://img.shields.io/github/stars/ZhiaDev/mac-proxy-manager?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ZhiaDev/mac-proxy-manager?style=for-the-badge" />|
+
 
 
 # Search
