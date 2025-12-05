@@ -517,13 +517,13 @@ Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
 GOProxy|[snail007/goproxy](https://github.com/snail007/goproxy)|<img src="https://img.shields.io/github/stars/snail007/goproxy?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/snail007/goproxy?style=for-the-badge&label=" />|
 NPS|[ehang-io/nps](https://github.com/ehang-io/nps)|<img src="https://img.shields.io/github/stars/ehang-io/nps?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ehang-io/nps?style=for-the-badge&label=" />|
-MacOS Proxy Manager|[ZhiaDev/mac-proxy-manager](https://github.com/ZhiaDev/mac-proxy-manager)|<img src="https://img.shields.io/github/stars/ZhiaDev/mac-proxy-manager?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ZhiaDev/mac-proxy-manager?style=for-the-badge&label=" />|
 Hetty |[dstotijn/hetty](https://github.com/dstotijn/hetty)|<img src="https://img.shields.io/github/stars/dstotijn/hetty?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/dstotijn/hetty?style=for-the-badge&label=" />|
 mitmproxy|[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)|<img src="https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/mitmproxy/mitmproxy?style=for-the-badge&label=" />|
 Wireshark|[wireshark/wireshark](https://github.com/wireshark/wireshark)|<img src="https://img.shields.io/github/stars/wireshark/wireshark?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/wireshark/wireshark?style=for-the-badge&label=" />|
 ProxyPin|[wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)|<img src="https://img.shields.io/github/stars/wanghongenpin/network_proxy_flutter?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/wanghongenpin/network_proxy_flutter?style=for-the-badge&label=" />|
 Reqable|[reqable/reqable-app](https://github.com/reqable/reqable-app)|<img src="https://img.shields.io/github/stars/reqable/reqable-app?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/reqable/reqable-app?style=for-the-badge&label=" />|
 ZeroOmega|[zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega)|<img src="https://img.shields.io/github/stars/zero-peak/ZeroOmega?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/zero-peak/ZeroOmega?style=for-the-badge&label=" />|
+MacOS Proxy Manager|[ZhiaDev/mac-proxy-manager](https://github.com/ZhiaDev/mac-proxy-manager)|<img src="https://img.shields.io/github/stars/ZhiaDev/mac-proxy-manager?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ZhiaDev/mac-proxy-manager?style=for-the-badge&label=" />|
 
 # QR Code
 Name| Address | Star| Last Update|Desc
