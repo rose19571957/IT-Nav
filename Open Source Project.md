@@ -530,6 +530,7 @@ Wireshark|[wireshark/wireshark](https://github.com/wireshark/wireshark)|<img src
 ProxyPin|[wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)|<img src="https://img.shields.io/github/stars/wanghongenpin/network_proxy_flutter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wanghongenpin/network_proxy_flutter?style=for-the-badge" />|
 Reqable|[reqable/reqable-app](https://github.com/reqable/reqable-app)|<img src="https://img.shields.io/github/stars/reqable/reqable-app?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/reqable/reqable-app?style=for-the-badge" />|
 GUI.for.SingBox|[GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox)|<img src="https://img.shields.io/github/stars/GUI-for-Cores/GUI.for.SingBox?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/GUI-for-Cores/GUI.for.SingBox?style=for-the-badge" />|
+ZeroOmega|[zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega)|<img src="https://img.shields.io/github/stars/zero-peak/ZeroOmega?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zero-peak/ZeroOmega?style=for-the-badge" />|
 
 # QR Code
 Name| Address | Star| Last Update|Desc
