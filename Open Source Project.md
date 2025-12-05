@@ -508,15 +508,38 @@ Name| Respository Address | Star| Last Update
 Immich|[immich-app/immich](https://github.com/immich-app/immich)|<img src="https://img.shields.io/github/stars/immich-app/immich?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/immich-app/immich?style=for-the-badge" />|
 
 # Proxy
+Name| Address |Desc
+-|-|-|
+Open VPN|[openvpn.net](https://openvpn.net)|
+Fiddler Classic|[www.telerik.com/download/fiddler](https://www.telerik.com/download/fiddler)|
+Fiddler Everywhere|[www.telerik.com/download/fiddler-everywhere](https://www.telerik.com/download/fiddler-everywhere)|
+
 Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
 GOProxy|[snail007/goproxy](https://github.com/snail007/goproxy)|<img src="https://img.shields.io/github/stars/snail007/goproxy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/snail007/goproxy?style=for-the-badge" />|
 NPS|[ehang-io/nps](https://github.com/ehang-io/nps)|<img src="https://img.shields.io/github/stars/ehang-io/nps?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ehang-io/nps?style=for-the-badge" />|
-
-Developer
-Name| Respository Address | Star| Last Update|Desc
--|-|-|-|-|
+MacOS Proxy Manager|[ZhiaDev/mac-proxy-manager](https://github.com/ZhiaDev/mac-proxy-manager)|<img src="https://img.shields.io/github/stars/ZhiaDev/mac-proxy-manager?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ZhiaDev/mac-proxy-manager?style=for-the-badge" />|
 Hetty |[dstotijn/hetty](https://github.com/dstotijn/hetty)|<img src="https://img.shields.io/github/stars/dstotijn/hetty?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dstotijn/hetty?style=for-the-badge" />|
+OpenVPN  |[OpenVPN/openvpn](https://github.com/OpenVPN/openvpn)|<img src="https://img.shields.io/github/stars/OpenVPN/openvpn?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/OpenVPN/openvpn?style=for-the-badge" />|
+Throne|[throneproj/Throne](https://github.com/throneproj/Throne)|<img src="https://img.shields.io/github/stars/throneproj/Throne?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/throneproj/Throne?style=for-the-badge" />|
+sing-box|[SagerNet/sing-box](https://github.com/SagerNet/sing-box)|<img src="https://img.shields.io/github/stars/SagerNet/sing-box?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/SagerNet/sing-box?style=for-the-badge" />|
+Clash Verge|[clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)|<img src="https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/clash-verge-rev/clash-verge-rev?style=for-the-badge" />|
+v2rayN|[2dust/v2rayN](https://github.com/2dust/v2rayN)|<img src="https://img.shields.io/github/stars/2dust/v2rayN?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/2dust/v2rayN?style=for-the-badge" />|
+mitmproxy|[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)|<img src="https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mitmproxy/mitmproxy?style=for-the-badge" />|
+Wireshark|[wireshark/wireshark](https://github.com/wireshark/wireshark)|<img src="https://img.shields.io/github/stars/wireshark/wireshark?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wireshark/wireshark?style=for-the-badge" />|
+ProxyPin|[wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)|<img src="https://img.shields.io/github/stars/wanghongenpin/network_proxy_flutter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wanghongenpin/network_proxy_flutter?style=for-the-badge" />|
+Reqable|[reqable/reqable-app](https://github.com/reqable/reqable-app)|<img src="https://img.shields.io/github/stars/reqable/reqable-app?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/reqable/reqable-app?style=for-the-badge" />|
+
+
+Network
+Name| Address |Desc
+-|-|-|
+Open VPN|[openvpn.net](https://openvpn.net)|
+
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+OpenVPN  |[OpenVPN/openvpn](https://github.com/OpenVPN/openvpn)|<img src="https://img.shields.io/github/stars/OpenVPN/openvpn?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/OpenVPN/openvpn?style=for-the-badge" />|
+GUI.for.SingBox|[GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox)|<img src="https://img.shields.io/github/stars/GUI-for-Cores/GUI.for.SingBox?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/GUI-for-Cores/GUI.for.SingBox?style=for-the-badge" />|
 
 # QR Code
 Name| Address | Star| Last Update|Desc
