@@ -88,26 +88,6 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 VLC|[videolan/vlc](https://github.com/videolan/vlc)|<img src="https://img.shields.io/github/stars/videolan/vlc?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/videolan/vlc?style=for-the-badge" />|
 
-# Proxy
-Name| Address |Desc
--|-|-|
-Open VPN|[openvpn.net](https://openvpn.net)|
-
-Name| Address | Star| Last Update| Desc
--|-|-|-|-|
-OpenVPN  |[OpenVPN/openvpn](https://github.com/OpenVPN/openvpn)|<img src="https://img.shields.io/github/stars/OpenVPN/openvpn?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/OpenVPN/openvpn?style=for-the-badge" />|
-Throne|[throneproj/Throne](https://github.com/throneproj/Throne)|<img src="https://img.shields.io/github/stars/throneproj/Throne?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/throneproj/Throne?style=for-the-badge" />|
-sing-box|[SagerNet/sing-box](https://github.com/SagerNet/sing-box)|<img src="https://img.shields.io/github/stars/SagerNet/sing-box?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/SagerNet/sing-box?style=for-the-badge" />|
-Clash Verge|[clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)|<img src="https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/clash-verge-rev/clash-verge-rev?style=for-the-badge" />|
-v2rayN|[2dust/v2rayN](https://github.com/2dust/v2rayN)|<img src="https://img.shields.io/github/stars/2dust/v2rayN?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/2dust/v2rayN?style=for-the-badge" />|
-
-Switcher
-Name| Address | Star| Last Update| Desc
--|-|-|-|-|
-MacOS Proxy Manager|[ZhiaDev/mac-proxy-manager](https://github.com/ZhiaDev/mac-proxy-manager)|<img src="https://img.shields.io/github/stars/ZhiaDev/mac-proxy-manager?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ZhiaDev/mac-proxy-manager?style=for-the-badge" />|
-
-
-
 # Search
 Name| Address | Star| Last Update
 -|-|-|-|
