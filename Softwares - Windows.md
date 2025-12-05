@@ -218,31 +218,6 @@ RunCat_for_windows|[Kyome22/RunCat_for_windows](https://github.com/Kyome22/RunCa
 TrafficMonitor|[zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)|<img src="https://img.shields.io/github/stars/zhongyang219/TrafficMonitor?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zhongyang219/TrafficMonitor?style=for-the-badge" />
 Win Memory Cleaner|[IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)|<img src="https://img.shields.io/github/stars/IgorMundstein/WinMemoryCleaner?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/IgorMundstein/WinMemoryCleaner?style=for-the-badge" />
 
-# Proxy
-Developer
-Name| Address |Desc
--|-|-|
-Fiddler Classic|[www.telerik.com/download/fiddler](https://www.telerik.com/download/fiddler)|
-Fiddler Everywhere|[www.telerik.com/download/fiddler-everywhere](https://www.telerik.com/download/fiddler-everywhere)|
-
-Name| Address | Star| Last Update|Desc
--|-|-|-|-|
-mitmproxy|[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)|<img src="https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mitmproxy/mitmproxy?style=for-the-badge" />|
-Wireshark|[wireshark/wireshark](https://github.com/wireshark/wireshark)|<img src="https://img.shields.io/github/stars/wireshark/wireshark?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wireshark/wireshark?style=for-the-badge" />|
-ProxyPin|[wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)|<img src="https://img.shields.io/github/stars/wanghongenpin/network_proxy_flutter?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/wanghongenpin/network_proxy_flutter?style=for-the-badge" />|
-Reqable|[reqable/reqable-app](https://github.com/reqable/reqable-app)|<img src="https://img.shields.io/github/stars/reqable/reqable-app?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/reqable/reqable-app?style=for-the-badge" />|
-
-
-Network
-Name| Address |Desc
--|-|-|
-Open VPN|[openvpn.net](https://openvpn.net)|
-
-Name| Address | Star| Last Update| Desc
--|-|-|-|-|
-OpenVPN  |[OpenVPN/openvpn](https://github.com/OpenVPN/openvpn)|<img src="https://img.shields.io/github/stars/OpenVPN/openvpn?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/OpenVPN/openvpn?style=for-the-badge" />|
-GUI.for.SingBox|[GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox)|<img src="https://img.shields.io/github/stars/GUI-for-Cores/GUI.for.SingBox?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/GUI-for-Cores/GUI.for.SingBox?style=for-the-badge" />|
-
 # Player
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
