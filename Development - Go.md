@@ -41,6 +41,14 @@ Name| Address | Star| Last Update|Desc
 go-redis|[redis/go-redis](https://github.com/redis/go-redis)|<img src="https://img.shields.io/github/stars/redis/go-redis?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/redis/go-redis?style=for-the-badge&label=" />|
 sqlx|[jmoiron/sqlx](https://github.com/jmoiron/sqlx)|<img src="https://img.shields.io/github/stars/jmoiron/sqlx?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/jmoiron/sqlx?style=for-the-badge&label=" />|
 
+# DI 
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Wire|[google/wire](https://github.com/google/wire)|<img src="https://img.shields.io/github/stars/google/wire?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/google/wire?style=for-the-badge&label=" />|
+dig |[uber-go/dig](https://github.com/uber-go/dig)|<img src="https://img.shields.io/github/stars/uber-go/dig?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/uber-go/dig?style=for-the-badge&label=" />|
+do  |[samber/do](https://github.com/samber/do)|<img src="https://img.shields.io/github/stars/samber/do?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/samber/do?style=for-the-badge&label=" />|
+
+
 # File 
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
