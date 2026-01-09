@@ -217,6 +217,8 @@ ActivityWatch|[ActivityWatch/activitywatch](https://github.com/ActivityWatch/act
 RunCat_for_windows|[Kyome22/RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows)|<img src="https://img.shields.io/github/stars/Kyome22/RunCat_for_windows?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Kyome22/RunCat_for_windows?style=for-the-badge&label=" />
 TrafficMonitor|[zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)|<img src="https://img.shields.io/github/stars/zhongyang219/TrafficMonitor?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/zhongyang219/TrafficMonitor?style=for-the-badge&label=" />
 Win Memory Cleaner|[IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)|<img src="https://img.shields.io/github/stars/IgorMundstein/WinMemoryCleaner?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/IgorMundstein/WinMemoryCleaner?style=for-the-badge&label=" />
+LiteMonitor  |[Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor)|<img src="https://img.shields.io/github/stars/Diorser/LiteMonitor?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Diorser/LiteMonitor?style=for-the-badge&label=" />|
+
 
 # Player
 Name| Address | Star| Last Update|Desc
