@@ -179,7 +179,7 @@ Sourcetree|[www.sourcetreeapp.com](https://www.sourcetreeapp.com/)|
 
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-TortoiseGit|[TortoiseGit/TortoiseGit](https://github.com/TortoiseGit/TortoiseGit)|<img src="https://img.shields.io/github/stars/TortoiseGit/TortoiseGit?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/TortoiseGit/TortoiseGit?style=for-the-badge&label=" />|
+TortoiseGit|[TortoiseGit/TortoiseGit](https://github.com/TortoiseGit/TortoiseGit)|<img src="https://img.shields.io/github/stars/TortoiseGit/TortoiseGit?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/TortoiseGit/TortoiseGit?style=for-the-badge&label=" />| depend：[VC++](https://tortoisegit.org/support/faq/#prerequisites)
 GitVersion|[GitTools/GitVersion](https://github.com/GitTools/GitVersion)|<img src="https://img.shields.io/github/stars/GitTools/GitVersion?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/GitTools/GitVersion?style=for-the-badge&label=" />|
 Git Extensions|[gitextensions/gitextensions](https://github.com/gitextensions/gitextensions)|<img src="https://img.shields.io/github/stars/gitextensions/gitextensions?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/gitextensions/gitextensions?style=for-the-badge&label=" />|
 GitButler|[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)|<img src="https://img.shields.io/github/stars/gitbutlerapp/gitbutler?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/gitbutlerapp/gitbutler?style=for-the-badge&label=" />|
