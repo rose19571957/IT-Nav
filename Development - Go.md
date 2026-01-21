@@ -141,6 +141,12 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Testify|[stretchr/testify](https://github.com/stretchr/testify)|<img src="https://img.shields.io/github/stars/stretchr/testify?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/stretchr/testify?style=for-the-badge&label=" />|
 
+# Type Convert
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+cast  |[spf13/cast](https://github.com/spf13/cast)|<img src="https://img.shields.io/github/stars/spf13/cast?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/spf13/cast?style=for-the-badge&label=" />|
+
+
 # Web framework
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
