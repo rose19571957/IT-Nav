@@ -99,6 +99,11 @@ mux  |[gorilla/mux](https://github.com/gorilla/mux)|<img src="https://img.shield
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Logrus  |[sirupsen/logrus](https://github.com/sirupsen/logrus)|<img src="https://img.shields.io/github/stars/sirupsen/logrus?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/sirupsen/logrus?style=for-the-badge&label=" />|
+log  |[apex/log](https://github.com/apex/log)|<img src="https://img.shields.io/github/stars/apex/log?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/apex/log?style=for-the-badge&label=" />|
+ZeroLog  |[rs/zerolog](https://github.com/rs/zerolog)|<img src="https://img.shields.io/github/stars/rs/zerolog?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/rs/zerolog?style=for-the-badge&label=" />|
+zap  |[uber-go/zap](https://github.com/uber-go/zap)|<img src="https://img.shields.io/github/stars/uber-go/zap?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/uber-go/zap?style=for-the-badge&label=" />|
+slog  |[gookit/slog](https://github.com/gookit/slog)|<img src="https://img.shields.io/github/stars/gookit/slog?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/gookit/slog?style=for-the-badge&label=" />|
+
 
 # ORM
 Name| Address | Star| Last Update|Desc
