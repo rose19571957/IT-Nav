@@ -172,6 +172,11 @@ Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
 kite   |[zxh326/kite](https://github.com/zxh326/kite)|<img src="https://img.shields.io/github/stars/zxh326/kite?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/zxh326/kite?style=for-the-badge&label=" />| K8S
 
+# Code Editor
+Name| Respository Address | Star| Last Update| Desc
+-|-|-|-|-|
+Onivim 2|[onivim/oni2](https://github.com/onivim/oni2)|<img src="https://img.shields.io/github/stars/onivim/oni2?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/onivim/oni2?style=for-the-badge&label=" />|
+
 
 # Cross-Platform Builder
 Name| Respository Address | Star| Last Update| Desc
