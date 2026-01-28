@@ -24,6 +24,8 @@ ToolGood.Words |[toolgood/ToolGood.Words](https://github.com/toolgood/ToolGood.W
 YiShaAdmin|[liukuo362573/YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin)|<img src="https://img.shields.io/github/stars/liukuo362573/YiShaAdmin?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/liukuo362573/YiShaAdmin?style=for-the-badge&label=" />|
 zhontai admin|[zhontai/Admin.Core](https://github.com/zhontai/Admin.Core)|<img src="https://img.shields.io/github/stars/zhontai/Admin.Core?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/zhontai/Admin.Core?style=for-the-badge&label=" />|
 DncZeus |[lampo1024/DncZeus](https://github.com/lampo1024/DncZeus)|<img src="https://img.shields.io/github/stars/lampo1024/DncZeus?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/lampo1024/DncZeus?style=for-the-badge&label=" />|
+Admin.NET   |[zuohuaijun/Admin.NET](https://github.com/zuohuaijun/Admin.NET)|<img src="https://img.shields.io/github/stars/zuohuaijun/Admin.NET?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/zuohuaijun/Admin.NET?style=for-the-badge&label=" />|
+
 
 
 # AI
