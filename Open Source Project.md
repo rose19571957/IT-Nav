@@ -167,6 +167,12 @@ K3s|[k3s-io/k3s](https://github.com/k3s-io/k3s)|<img src="https://img.shields.io
 k3d |[k3d-io/k3d](https://github.com/k3d-io/k3d)|<img src="https://img.shields.io/github/stars/k3d-io/k3d?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/k3d-io/k3d?style=for-the-badge&label=" />|k3s helper 
 Kubernetes |[kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)|<img src="https://img.shields.io/github/stars/kubernetes/kubernetes?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/kubernetes/kubernetes?style=for-the-badge&label=" />|K8S
 
+Dashboard
+Name| Respository Address | Star| Last Update| Desc
+-|-|-|-|-|
+kite   |[zxh326/kite](https://github.com/zxh326/kite)|<img src="https://img.shields.io/github/stars/zxh326/kite?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/zxh326/kite?style=for-the-badge&label=" />| K8S
+
+
 # Cross-Platform Builder
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
