@@ -603,6 +603,8 @@ Name| Respository Address | Star| Last Update|Desc
 Firefly III|[firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)|<img src="https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/firefly-iii/firefly-iii?style=for-the-badge&label=" />|
 Akaunting|[akaunting/akaunting](https://github.com/akaunting/akaunting)|<img src="https://img.shields.io/github/stars/akaunting/akaunting?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/akaunting/akaunting?style=for-the-badge&label=" />|
 Maybe|[maybe-finance/maybe](https://github.com/maybe-finance/maybe)|<img src="https://img.shields.io/github/stars/maybe-finance/maybe?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/maybe-finance/maybe?style=for-the-badge&label=" />|
+crater   |[crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater)|<img src="https://img.shields.io/github/stars/crater-invoice-inc/crater?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/crater-invoice-inc/crater?style=for-the-badge&label=" />|Invoicing 
+
 
 # Streaming Server
 Name| Address | Star| Last Update|Desc
