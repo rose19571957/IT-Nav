@@ -24,12 +24,12 @@ Name| Address | Star| Last Update
 DrawDB|[github.com/drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)|<img src="https://img.shields.io/github/stars/drawdb-io/drawdb?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/drawdb-io/drawdb?style=for-the-badge" />
 PDManer|[gitee.com/robergroup/pdmaner](https://gitee.com/robergroup/pdmaner)|-|-
 
-# Elastic Search
+# ElasticSearch Tool
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Elastic stack (ELK) on Docker|[github.com/deviantony/docker-elk](https://github.com/deviantony/docker-elk)|<img src="https://img.shields.io/github/stars/deviantony/docker-elk?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/deviantony/docker-elk?style=for-the-badge" />|Quick Deploy ELK
 
-# Redis
+# Redis Tool
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 RDR|[github.com/xueqiu/rdr](https://github.com/xueqiu/rdr)|<img src="https://img.shields.io/github/stars/xueqiu/rdr?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/xueqiu/rdr?style=for-the-badge" />|Redis Memory Analysis Tool
