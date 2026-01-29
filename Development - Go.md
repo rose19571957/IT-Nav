@@ -109,6 +109,8 @@ slog  |[gookit/slog](https://github.com/gookit/slog)|<img src="https://img.shiel
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 GORM |[go-gorm/gorm](https://github.com/go-gorm/gorm)|<img src="https://img.shields.io/github/stars/go-gorm/gorm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/go-gorm/gorm?style=for-the-badge&label=" />|
+pq|[lib/pq](https://github.com/lib/pq)|<img src="https://img.shields.io/github/stars/lib/pq?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/lib/pq?style=for-the-badge&label=" />|
+
 
 # Microservices Framework
 Name| Address | Star| Last Update|Desc
