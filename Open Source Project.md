@@ -34,6 +34,7 @@ py12306|[pjialin/py12306](https://github.com/pjialin/py12306)|<img src="https://
 # AI
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
+Moltbot |[moltbot/moltbot](https://github.com/moltbot/moltbot)|<img src="https://img.shields.io/github/stars/moltbot/moltbot?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/moltbot/moltbot?style=for-the-badge&label=" />|
 DeepSeek-V3|[deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)|<img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/deepseek-ai/DeepSeek-V3?style=for-the-badge&label=" />|
 DeepSeek-R1|[deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)|<img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/deepseek-ai/DeepSeek-R1?style=for-the-badge&label=" />|
 DeepSeek Coder|[deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)|<img src="https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/deepseek-ai/DeepSeek-Coder?style=for-the-badge&label=" />|
