@@ -1,12 +1,16 @@
+# Database
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 PostgreSQL  |[postgres/postgres](https://github.com/postgres/postgres)|<img src="https://img.shields.io/github/stars/postgres/postgres?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/postgres/postgres?style=for-the-badge&label=" />|
+Elasticsearch|[github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)|<img src="https://img.shields.io/github/stars/elastic/elasticsearch?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/elastic/elasticsearch?style=for-the-badge" />|
 
 Cache
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Dragonfly|[github.com/dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)|<img src="https://img.shields.io/github/stars/dragonflydb/dragonfly?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dragonflydb/dragonfly?style=for-the-badge" />|
 KeyDB|[Snapchat/KeyDB](https://github.com/Snapchat/KeyDB)|<img src="https://img.shields.io/github/stars/Snapchat/KeyDB?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Snapchat/KeyDB?style=for-the-badge" />|
+Redka  |[github.com/nalgeon/redka](https://github.com/nalgeon/redka)|<img src="https://img.shields.io/github/stars/nalgeon/redka?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nalgeon/redka?style=for-the-badge" />|Redis re-implemented with SQLite
+
 
 Chart
 Name| Address | Star| Last Update| Desc
@@ -23,16 +27,12 @@ PDManer|[gitee.com/robergroup/pdmaner](https://gitee.com/robergroup/pdmaner)|-|-
 # Elastic Search
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-Elasticsearch|[github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)|<img src="https://img.shields.io/github/stars/elastic/elasticsearch?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/elastic/elasticsearch?style=for-the-badge" />|DB
 Elastic stack (ELK) on Docker|[github.com/deviantony/docker-elk](https://github.com/deviantony/docker-elk)|<img src="https://img.shields.io/github/stars/deviantony/docker-elk?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/deviantony/docker-elk?style=for-the-badge" />|Quick Deploy ELK
 
 # Redis
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-Redka  |[github.com/nalgeon/redka](https://github.com/nalgeon/redka)|<img src="https://img.shields.io/github/stars/nalgeon/redka?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/nalgeon/redka?style=for-the-badge" />|Redis re-implemented with SQLite
 RDR|[github.com/xueqiu/rdr](https://github.com/xueqiu/rdr)|<img src="https://img.shields.io/github/stars/xueqiu/rdr?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/xueqiu/rdr?style=for-the-badge" />|Redis Memory Analysis Tool
-
-
 
 # SQL Audit Platform 
 Name| Address | Star| Last Update| Desc
