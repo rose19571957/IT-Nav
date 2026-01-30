@@ -14,7 +14,12 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 curl|[curl/curl](https://github.com/curl/curl)|<img src="https://img.shields.io/github/stars/curl/curl?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/curl/curl?style=for-the-badge&label=" />|
 
-# monitor
+# Monitor
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 CPU-X|[TheTumultuousUnicornOfDarkness/CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X)|<img src="https://img.shields.io/github/stars/TheTumultuousUnicornOfDarkness/CPU-X?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/TheTumultuousUnicornOfDarkness/CPU-X?style=for-the-badge&label=" />|
+
+# Windows
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+WinBoat  |[TibixDev/WinBoat](https://github.com/TibixDev/WinBoat)|<img src="https://img.shields.io/github/stars/TibixDev/WinBoat?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/TibixDev/WinBoat?style=for-the-badge&label=" />|
