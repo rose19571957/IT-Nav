@@ -90,6 +90,12 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 CAP|[dotnetcore/CAP](https://github.com/dotnetcore/CAP)|<img src="https://img.shields.io/github/stars/dotnetcore/CAP?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/CAP?style=for-the-badge&label=" />|
 
+# Captcha
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+LazyCaptcha   |[pojianbing/LazyCaptcha](https://github.com/pojianbing/LazyCaptcha)|<img src="https://img.shields.io/github/stars/pojianbing/LazyCaptcha?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/pojianbing/LazyCaptcha?style=for-the-badge&label=" />|
+
+
 # CMS
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
