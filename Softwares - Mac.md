@@ -39,6 +39,12 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 文件下载器|[GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)|[![GitHub Repo stars](https://img.shields.io/github/stars/GopeedLab/gopeed?style=for-the-badge&label=)](https://github.com/GopeedLab/gopeed/stargazers)|<img src="https://img.shields.io/github/last-commit/GopeedLab/gopeed?style=for-the-badge&label=" />|
 
+# Device Manage
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+iDescriptor |[iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor)|<img src="https://img.shields.io/github/stars/iDescriptor/iDescriptor?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/iDescriptor/iDescriptor?style=for-the-badge&label=" />|
+
+
 # File
 Name| Address | Desc
 -|-|-|
