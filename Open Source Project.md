@@ -22,6 +22,7 @@ GhostTrack |[HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)|<img s
 CUPP|[Mebus/cupp](https://github.com/Mebus/cupp)|<img src="https://img.shields.io/github/stars/Mebus/cupp?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Mebus/cupp?style=for-the-badge&label=" />|Password
 tududi|[chrisvel/tududi](https://github.com/chrisvel/tududi)|<img src="https://img.shields.io/github/stars/chrisvel/tududi?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/chrisvel/tududi?style=for-the-badge&label=" />|Todo
 RenewHelper |[ieax/renewhelper](https://github.com/ieax/renewhelper)|<img src="https://img.shields.io/github/stars/ieax/renewhelper?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ieax/renewhelper?style=for-the-badge&label=" />|
+Legado  |[gedoor/legado](https://github.com/gedoor/legado)|<img src="https://img.shields.io/github/stars/gedoor/legado?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/gedoor/legado?style=for-the-badge&label=" />|Book
 
 
 # 技术架构
