@@ -20,6 +20,7 @@ infra |[infrahq/infra](https://github.com/infrahq/infra)|<img src="https://img.s
 TrendRadar |[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)|<img src="https://img.shields.io/github/stars/sansan0/TrendRadar?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/sansan0/TrendRadar?style=for-the-badge&label=" />|
 GhostTrack |[HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack)|<img src="https://img.shields.io/github/stars/HunxByts/GhostTrack?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/HunxByts/GhostTrack?style=for-the-badge&label=" />|
 CUPP|[Mebus/cupp](https://github.com/Mebus/cupp)|<img src="https://img.shields.io/github/stars/Mebus/cupp?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Mebus/cupp?style=for-the-badge&label=" />|Password
+tududi|[chrisvel/tududi](https://github.com/chrisvel/tududi)|<img src="https://img.shields.io/github/stars/chrisvel/tududi?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/chrisvel/tududi?style=for-the-badge&label=" />|Todo
 
 
 # 技术架构
