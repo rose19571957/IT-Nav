@@ -89,6 +89,11 @@ Name| Address | Star| Last Update
 -|-|-|-|
 Stats|[exelban/stats](https://github.com/exelban/stats)|<img src="https://img.shields.io/github/stars/exelban/stats?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/exelban/stats?style=for-the-badge&label=" />
 
+# Music
+Name| Address |Desc
+-|-|-|
+AlgerMusicPlayer  |[algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)|<img src="https://img.shields.io/github/stars/algerkong/AlgerMusicPlayer?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/algerkong/AlgerMusicPlayer?style=for-the-badge&label=" />|
+
 
 # Player
 Name| Address | Star| Last Update| Desc
