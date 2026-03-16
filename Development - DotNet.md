@@ -381,6 +381,13 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 QRCoder|[Shane32/QRCoder](https://github.com/Shane32/QRCoder)|<img src="https://img.shields.io/github/stars/Shane32/QRCoder?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Shane32/QRCoder?style=for-the-badge&label=" />|
 
+
+# Query
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+ZLinq  |[Cysharp/ZLinq](https://github.com/Cysharp/ZLinq)|<img src="https://img.shields.io/github/stars/Cysharp/ZLinq?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Cysharp/ZLinq?style=for-the-badge&label=" />|
+
+
 # RateLimit
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
