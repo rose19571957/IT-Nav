@@ -95,6 +95,11 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 LazyCaptcha   |[pojianbing/LazyCaptcha](https://github.com/pojianbing/LazyCaptcha)|<img src="https://img.shields.io/github/stars/pojianbing/LazyCaptcha?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/pojianbing/LazyCaptcha?style=for-the-badge&label=" />|
 
+# Chart
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+Plotly.NET  |[plotly/Plotly.NET](https://github.com/plotly/Plotly.NET)|<img src="https://img.shields.io/github/stars/plotly/Plotly.NET?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/plotly/Plotly.NET?style=for-the-badge&label=" />|
+
 
 # CMS
 Name| Address | Star| Last Update| Desc
