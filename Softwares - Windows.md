@@ -185,6 +185,8 @@ TortoiseGit|[TortoiseGit/TortoiseGit](https://github.com/TortoiseGit/TortoiseGit
 GitVersion|[GitTools/GitVersion](https://github.com/GitTools/GitVersion)|<img src="https://img.shields.io/github/stars/GitTools/GitVersion?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/GitTools/GitVersion?style=for-the-badge&label=" />|
 Git Extensions|[gitextensions/gitextensions](https://github.com/gitextensions/gitextensions)|<img src="https://img.shields.io/github/stars/gitextensions/gitextensions?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/gitextensions/gitextensions?style=for-the-badge&label=" />|
 GitButler|[gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)|<img src="https://img.shields.io/github/stars/gitbutlerapp/gitbutler?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/gitbutlerapp/gitbutler?style=for-the-badge&label=" />|
+Gitnuro   |[JetpackDuba/Gitnuro](https://github.com/JetpackDuba/Gitnuro)|<img src="https://img.shields.io/github/stars/JetpackDuba/Gitnuro?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/JetpackDuba/Gitnuro?style=for-the-badge&label=" />|
+
 
 # Image Viewer
 Name| Address | Star| Last Update|Desc
