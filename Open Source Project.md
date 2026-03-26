@@ -424,6 +424,8 @@ Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
 MyIP|[jason5ng32/MyIP](https://github.com/jason5ng32/MyIP)|<img src="https://img.shields.io/github/stars/jason5ng32/MyIP?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/jason5ng32/MyIP?style=for-the-badge&label=" />|IP Check
 Ip2region|[lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)|<img src="https://img.shields.io/github/stars/lionsoul2014/ip2region?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/lionsoul2014/ip2region?style=for-the-badge&label=" />| Query IP Location
+qqzeng-ip|[zengzhan/qqzeng-ip](https://github.com/zengzhan/qqzeng-ip)|<img src="https://img.shields.io/github/stars/zengzhan/qqzeng-ip?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/zengzhan/qqzeng-ip?style=for-the-badge&label=" />|
+
 
 # Mac
 Name| Address | Star| Last Update|Desc
