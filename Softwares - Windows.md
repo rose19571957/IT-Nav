@@ -174,6 +174,11 @@ Name| Address | Desc
 -|-|-|
 Git |[git-scm.com](https://git-scm.com)|
 
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Git City|[srizzon/git-city](https://github.com/srizzon/git-city)|<img src="https://img.shields.io/github/stars/srizzon/git-city?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/srizzon/git-city?style=for-the-badge&label=" />|
+
+
 Git Client
 Name| Address | Desc
 -|-|-|
