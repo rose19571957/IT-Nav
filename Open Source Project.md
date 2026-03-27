@@ -332,6 +332,8 @@ OpnForm|[JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm)|<img src="https://
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
 Higress |[alibaba/higress](https://github.com/alibaba/higress)|<img src="https://img.shields.io/github/stars/alibaba/higress?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/alibaba/higress?style=for-the-badge&label=" />|
+Bifrost |[maximhq/bifrost](https://github.com/maximhq/bifrost)|<img src="https://img.shields.io/github/stars/maximhq/bifrost?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/maximhq/bifrost?style=for-the-badge&label=" />|
+
 
 Web Application Firewall（WAF）
 Name| Respository Address | Star| Last Update| Desc
