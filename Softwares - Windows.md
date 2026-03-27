@@ -27,7 +27,7 @@ Name| Address |Desc
 -|-|-|
 WingetUI |[wingetui.com](https://wingetui.com/)|
 
-Name| Address | Star| Last Update|Desc
+Name| Address | Star| Last Update |Desc
 -|-|-|-|-|
 UniGetUI|[marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)|<img src="https://img.shields.io/github/stars/marticliment/UniGetUI?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/marticliment/UniGetUI?style=for-the-badge&label=" />|
 Chocolatey |[chocolatey/choco](https://github.com/chocolatey/choco)|<img src="https://img.shields.io/github/stars/chocolatey/choco?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/chocolatey/choco?style=for-the-badge&label=" />|
@@ -64,7 +64,7 @@ Name| Address | Desc
 -|-|-|
 notepad--|[cxasm/notepad](https://gitee.com/cxasm/notepad--)|
 
-Name| Address | Star| Last Update| Desc
+Name| Address | Star | Last Update | Desc
 -|-|-|-|-|
 Notepad++ |[notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)|<img src="https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/notepad-plus-plus/notepad-plus-plus?style=for-the-badge&label=" />|
 Notepad3|[rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3)|<img src="https://img.shields.io/github/stars/rizonesoft/Notepad3?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/rizonesoft/Notepad3?style=for-the-badge&label=" />|
