@@ -38,7 +38,7 @@ Bulk Crap Uninstaller|[Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman
 # Better
 Name| Address | Desc
 -|-|-|
-Dell Power Manage |Dell Power Manager](https://www.dell.com/support/contents/en-us/article/product-support/self-support-knowledgebase/software-and-downloads/dell-power-manager)|Dell|
+Dell Power Manage |[Dell Power Manager](https://www.dell.com/support/contents/en-us/article/product-support/self-support-knowledgebase/software-and-downloads/dell-power-manager)|Dell|
 
 
 # Browser
