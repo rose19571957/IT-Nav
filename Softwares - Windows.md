@@ -80,7 +80,11 @@ Notepad3|[rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3)|<img src=
 Name| Address | Desc
 -|-|-|
 WinMerge|[winmerge.org](https://winmerge.org)|
-notepad--|[https://gitee.com/cxasm/notepad--](https://gitee.com/cxasm/notepad--)|
+
+Name| Address | Star | Last Update | Desc
+-|-|-|-|-|
+Notepad-- |[cxasm/notepad--](https://github.com/cxasm/notepad--)|<img src="https://img.shields.io/github/stars/cxasm/notepad--?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/cxasm/notepad--?style=for-the-badge&label=" />|
+
 
 
 
