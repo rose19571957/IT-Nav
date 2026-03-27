@@ -3,12 +3,6 @@ Name| Address | Star| Last Update| Desc
 SuperCom   |[SuperStudio/SuperCom](https://github.com/SuperStudio/SuperCom)|<img src="https://img.shields.io/github/stars/SuperStudio/SuperCom?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/SuperStudio/SuperCom?style=for-the-badge&label=" />|
 UpSnap  |[seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap)|<img src="https://img.shields.io/github/stars/seriousm4x/UpSnap?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/seriousm4x/UpSnap?style=for-the-badge&label=" />|
 
-
-
-| Name | Address | Star | Last Update |
-|------|---------|------|-------------|
-| [![UniGetUI](https://img.shields.io/badge/UniGetUI-项目地址-blue?style=for-the-badge)](https://github.com/marticliment/UniGetUI) | marticliment/UniGetUI | [![Stars](https://img.shields.io/github/stars/marticliment/UniGetUI?style=for-the-badge&label=)](https://github.com/marticliment/UniGetUI) | [![Last Commit](https://img.shields.io/github/last-commit/marticliment/UniGetUI?style=for-the-badge&label=)](https://github.com/marticliment/UniGetUI) |
-
 # 12306
 Name| Address | Desc
 -|-|-|
