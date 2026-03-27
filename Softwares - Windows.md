@@ -2,7 +2,7 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 SuperCom   |[SuperStudio/SuperCom](https://github.com/SuperStudio/SuperCom)|<img src="https://img.shields.io/github/stars/SuperStudio/SuperCom?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/SuperStudio/SuperCom?style=for-the-badge&label=" />|
 UpSnap  |[seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap)|<img src="https://img.shields.io/github/stars/seriousm4x/UpSnap?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/seriousm4x/UpSnap?style=for-the-badge&label=" />|
-UpSnap  |<a href="https://github.com/marticliment/UniGetUI" style="text-decoration: none">UniGetUI</a>|<img src="https://img.shields.io/github/stars/seriousm4x/UpSnap?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/seriousm4x/UpSnap?style=for-the-badge&label=" />|
+
 
 
 # 12306
