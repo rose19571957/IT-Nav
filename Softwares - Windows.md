@@ -39,6 +39,8 @@ Bulk Crap Uninstaller|[Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman
 Name| Address | Desc
 -|-|-|
 Dell Power Manage |[Dell Power Manager](https://www.dell.com/support/contents/en-us/article/product-support/self-support-knowledgebase/software-and-downloads/dell-power-manager)|Dell|
+联想电脑管家 |[Lenovo PC Manager](https://guanjia.lenovo.com.cn)|Lenovo|
+
 
 
 # Browser
