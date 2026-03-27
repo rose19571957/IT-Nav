@@ -62,7 +62,7 @@ ILSpy|[icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)|<img src="https:
 Text Editor
 Name| Address | Desc
 -|-|-|
-notepad--|[cxasm/notepad](https://gitee.com/cxasm/notepad--)|
+notepad--|[https://gitee.com/cxasm/notepad--](https://gitee.com/cxasm/notepad--)|
 
 Name| Address | Star | Last Update | Desc
 -|-|-|-|-|
@@ -74,7 +74,7 @@ Notepad3|[rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3)|<img src=
 Name| Address | Desc
 -|-|-|
 WinMerge|[winmerge.org](https://winmerge.org)|
-notepad--|[cxasm/notepad](https://gitee.com/cxasm/notepad--)|
+notepad--|[https://gitee.com/cxasm/notepad--](https://gitee.com/cxasm/notepad--)|
 
 
 
