@@ -60,6 +60,10 @@ Name| Address | Star| Last Update| Desc
 ILSpy|[icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)|<img src="https://img.shields.io/github/stars/icsharpcode/ILSpy?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/icsharpcode/ILSpy?style=for-the-badge&label=" />
 
 Text Editor
+Name| Address | Desc
+-|-|-|
+notepad--|[cxasm/notepad](https://gitee.com/cxasm/notepad--)|
+
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Notepad++ |[notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)|<img src="https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/notepad-plus-plus/notepad-plus-plus?style=for-the-badge&label=" />|
@@ -70,6 +74,9 @@ Notepad3|[rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3)|<img src=
 Name| Address | Desc
 -|-|-|
 WinMerge|[winmerge.org](https://winmerge.org)|
+notepad--|[cxasm/notepad](https://gitee.com/cxasm/notepad--)|
+
+
 
 # Containerization Platform
 Name| Address |Desc
