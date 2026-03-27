@@ -35,6 +35,12 @@ Scoop|[ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)|<img src="
 Bulk Crap Uninstaller|[Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)|<img src="https://img.shields.io/github/stars/Klocman/Bulk-Crap-Uninstaller?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Klocman/Bulk-Crap-Uninstaller?style=for-the-badge&label=" />|
 
 
+# Better
+Name| Address | Desc
+-|-|-|
+Dell Power Manage |Dell Power Manager](https://www.dell.com/support/contents/en-us/article/product-support/self-support-knowledgebase/software-and-downloads/dell-power-manager)|Dell|
+
+
 # Browser
 Name| Address | Desc
 -|-|-|
