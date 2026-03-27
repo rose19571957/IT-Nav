@@ -68,12 +68,9 @@ Name| Address | Star| Last Update| Desc
 ILSpy|[icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)|<img src="https://img.shields.io/github/stars/icsharpcode/ILSpy?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/icsharpcode/ILSpy?style=for-the-badge&label=" />
 
 Text Editor
-Name| Address | Desc
--|-|-|
-notepad--|[https://gitee.com/cxasm/notepad--](https://gitee.com/cxasm/notepad--)|
-
 Name| Address | Star | Last Update | Desc
 -|-|-|-|-|
+notepad-- |[cxasm/notepad--](https://github.com/cxasm/notepad--)|<img src="https://img.shields.io/github/stars/cxasm/notepad--?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/cxasm/notepad--?style=for-the-badge&label=" />|
 Notepad++ |[notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)|<img src="https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/notepad-plus-plus/notepad-plus-plus?style=for-the-badge&label=" />|
 Notepad3|[rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3)|<img src="https://img.shields.io/github/stars/rizonesoft/Notepad3?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/rizonesoft/Notepad3?style=for-the-badge&label=" />|
 
