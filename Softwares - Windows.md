@@ -381,6 +381,7 @@ Name| Address |Desc
 -|-|-|
 Hyper-V|[enable-hyper-v](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)|
 Xen|[Xeb](https://xenproject.org)|
+VMware ESXi|[VMware vSphere](https://www.vmware.com/products/cloud-infrastructure/vsphere)|
 
 Type2
 Name| Address |Desc
