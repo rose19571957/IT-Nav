@@ -379,7 +379,8 @@ Ext4Fsd|[bobranten/Ext4Fsd](https://github.com/bobranten/Ext4Fsd)|<img src="http
 Type1
 Name| Address |Desc
 -|-|-|
-Hyper-V|[enable-hyper-v](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)|Recommend
+Hyper-V|[enable-hyper-v](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)|
+Xen|[Xeb](https://xenproject.org)|
 
 Type2
 Name| Address |Desc
