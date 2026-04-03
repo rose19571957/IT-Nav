@@ -376,9 +376,14 @@ Ext4Fsd|[bobranten/Ext4Fsd](https://github.com/bobranten/Ext4Fsd)|<img src="http
 
 
 # Virtual Machine
+Type1
 Name| Address |Desc
 -|-|-|
 Hyper-V|[enable-hyper-v](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)|Recommend
+
+Type2
+Name| Address |Desc
+-|-|-|
 VMware Workstation Pro|[VMware Workstation Pro](https://customerconnect.vmware.com/cn/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/17_0)|Free
 VMware Workstation Player|[VMware Workstation Player](https://customerconnect.vmware.com/cn/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/17_0)|Person Free
 
