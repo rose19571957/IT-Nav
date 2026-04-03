@@ -21,7 +21,8 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Bruno  |[usebruno/bruno](https://github.com/usebruno/bruno)|<img src="https://img.shields.io/github/stars/usebruno/bruno?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/usebruno/bruno?style=for-the-badge&label=" />|
 
-# App Store
+# App Manager
+Installer - APP Store
 Name| Address |Desc
 -|-|-|
 WingetUI |[wingetui.com](https://wingetui.com/)|
@@ -31,7 +32,13 @@ Name| Address | Star| Last Update |Desc
 UniGetUI|[marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)|<img src="https://img.shields.io/github/stars/marticliment/UniGetUI?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/marticliment/UniGetUI?style=for-the-badge&label=" />|
 Chocolatey |[chocolatey/choco](https://github.com/chocolatey/choco)|<img src="https://img.shields.io/github/stars/chocolatey/choco?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/chocolatey/choco?style=for-the-badge&label=" />|
 Scoop|[ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)|<img src="https://img.shields.io/github/stars/ScoopInstaller/Scoop?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ScoopInstaller/Scoop?style=for-the-badge&label=" />|
+
+Uninstaller
+Name| Address | Star| Last Update |Desc
+-|-|-|-|-|
 Bulk Crap Uninstaller|[Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)|<img src="https://img.shields.io/github/stars/Klocman/Bulk-Crap-Uninstaller?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Klocman/Bulk-Crap-Uninstaller?style=for-the-badge&label=" />|
+Winhance    |[memstechtips/Winhance](https://github.com/memstechtips/Winhance)|<img src="https://img.shields.io/github/stars/memstechtips/Winhance?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/memstechtips/Winhance?style=for-the-badge&label=" />|
+Optimizer    |[hellzerg/optimizer](https://github.com/hellzerg/optimizer)|<img src="https://img.shields.io/github/stars/hellzerg/optimizer?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/hellzerg/optimizer?style=for-the-badge&label=" />|
 
 
 # Better
@@ -39,7 +46,6 @@ Name| Address | Desc
 -|-|-|
 Dell Power Manage |[Dell Power Manager](https://www.dell.com/support/contents/en-us/article/product-support/self-support-knowledgebase/software-and-downloads/dell-power-manager)|Dell|
 联想电脑管家 |[Lenovo PC Manager](https://guanjia.lenovo.com.cn)|Lenovo|
-
 
 
 # Browser
