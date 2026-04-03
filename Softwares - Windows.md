@@ -376,14 +376,14 @@ Ext4Fsd|[bobranten/Ext4Fsd](https://github.com/bobranten/Ext4Fsd)|<img src="http
 
 
 # Virtual Machine
-Type1
+Type-1
 Name| Address |Desc
 -|-|-|
 Hyper-V|[enable-hyper-v](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)|
 Xen|[Xeb](https://xenproject.org)|
 VMware ESXi|[VMware vSphere](https://www.vmware.com/products/cloud-infrastructure/vsphere)|
 
-Type2
+Type-2
 Name| Address |Desc
 -|-|-|
 VMware Workstation Pro|[VMware Workstation Pro](https://customerconnect.vmware.com/cn/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/17_0)|Free
