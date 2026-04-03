@@ -135,6 +135,7 @@ Amphetamine|[x74353/Amphetamine-Enhancer](https://github.com/x74353/Amphetamine-
 
 
 # Virtual Machine
+Type-2
 Name| Address | Desc
 -|-|-|
 Parallels Desktop|[www.parallels.cn](https://www.parallels.cn/)||
