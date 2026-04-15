@@ -280,6 +280,7 @@ ScreenToGif|[NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToG
 LiveRecorder|[ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)|<img src="https://img.shields.io/github/stars/ihmily/DouyinLiveRecorder?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ihmily/DouyinLiveRecorder?style=for-the-badge&label=" />|
 Captura|[MathewSachin/Captura](https://github.com/MathewSachin/Captura)|<img src="https://img.shields.io/github/stars/MathewSachin/Captura?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/MathewSachin/Captura?style=for-the-badge&label=" />|Free
 ShareX |[ShareX/ShareX](https://github.com/ShareX/ShareX)|<img src="https://img.shields.io/github/stars/ShareX/ShareX?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ShareX/ShareX?style=for-the-badge&label=" />| Free
+Snipaste|[Snipaste/feedback](https://github.com/Snipaste/feedback)|<img src="https://img.shields.io/github/stars/Snipaste/feedback?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Snipaste/feedback?style=for-the-badge&label=" />|
 
 # Screen Tool
 Name| Address | Star| Last Update|Desc
