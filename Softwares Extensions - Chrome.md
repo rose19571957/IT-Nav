@@ -91,6 +91,12 @@ Tab Muter|[Tab Muter](https://chromewebstore.google.com/detail/tab-muter/bnclejf
 Volume Master|[Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke)|
 Smart Mute|[Smart Mute](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh)|
 
+# Proxy Tool
+Name| Address | Desc
+-|-|-|
+Proxy SwitchyOmega 3|[Proxy SwitchyOmega 3](https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped)| 
+
+
 # Monitor
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
