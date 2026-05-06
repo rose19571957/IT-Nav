@@ -126,6 +126,8 @@ Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/open-same
 Name| Address | Desc
 -|-|-|
 User-Agent Switcher|[User-Agent Switcher for Chrome](https://chromewebstore.google.com/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)|
+User Agent Switcher|[User Agent Switcher](https://chromewebstore.google.com/detail/user-agent-switcher/kchfmpdcejfkipopnolndinkeoipnoia)| 
+
 
 # Video Relation
 Name| Address | Star| Last Update| Desc
