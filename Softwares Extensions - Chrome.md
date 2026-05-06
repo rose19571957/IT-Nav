@@ -17,6 +17,12 @@ Name| Address | Desc
 -|-|-|
 Better History|[Better History](https://chromewebstore.google.com/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi?hl=en)| 
 
+# Awake
+Name| Address | Desc
+-|-|-|
+Keep Computer Awake|[Keep Computer Awake](https://chromewebstore.google.com/detail/keep-computer-awake-for-a/imbpigcghoambmanjekibelfjemnnool)| 
+
+
 # Cookie Manager
 Name| Address|Desc
 -|-|-|
