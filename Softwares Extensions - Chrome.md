@@ -36,7 +36,7 @@ Extension Manager|[Extension Manager](https://chromewebstore.google.com/detail/e
 
 
 
-# Crx Download 
+# CRX Download 
 Name| Address|Desc
 -|-|-|
 Extension Source Downloader|[Extension Source Downloader](https://chromewebstore.google.com/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea)| 
