@@ -12,10 +12,6 @@ Name| Address | Desc
 -|-|-|
 Authenticator|[Authenticator](https://chromewebstore.google.com/detail/bhghoamapcdpbohphigoooaddinpkbai)|2FA
 Web2FA - Authenticator|[Web2FA - Authenticator](https://chromewebstore.google.com/detail/web2fa-authenticator/gmegpkknicehidppoebnmbhndjigpica)|2FA
-# Browser History
-Name| Address | Desc
--|-|-|
-Better History|[Better History](https://chromewebstore.google.com/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi?hl=en)| 
 
 # Awake
 Name| Address | Desc
@@ -71,6 +67,7 @@ Enhanced Github|[github.com/softvar/enhanced-github](https://github.com/softvar/
 Name| Address | Desc
 -|-|-|
 Better History|[Better History](https://chromewebstore.google.com/detail/better-history-manage-exp/egehpkpgpgooebopjihjmnpejnjafefi)| 
+Better History|[Better History](https://chromewebstore.google.com/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi?hl=en)| 
 
 # reCAPTCHA
 Name| Address | Star| Last Update| Desc
