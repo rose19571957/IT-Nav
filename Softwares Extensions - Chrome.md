@@ -35,10 +35,12 @@ Extension Manager|[Extension Manager](https://chromewebstore.google.com/detail/e
 # CRX Download 
 Name| Address|Desc
 -|-|-|
+CRX Extractor/Downloader|[CRX Extractor/Downloader](https://chromewebstore.google.com/detail/crx-extractordownloader/ajkhmmldknmfjnmeedkbkkojgobmljda?pli=1)| 
 Get CRX|[Get CRX](https://chromewebstore.google.com/detail/get-crx/dijpllakibenlejkbajahncialkbdkjc)| 
 Extension Source Downloader|[Extension Source Downloader](https://chromewebstore.google.com/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea)| 
 Download Chrome Extension|[Download Chrome Extension](https://chromewebstore.google.com/detail/download-chrome-extension/idieikhccepnagohoobmbpocdbogegij)| 
 Chrome Extension Downloader (.crx file)|[Chrome Extension Downloader (.crx file)](https://chromewebstore.google.com/detail/chrome-extension-download/jkalanhajncaabamcheonncknfabbiaf)| 
+Chrome extension source viewer|[Chrome extension source viewer](https://chromewebstore.google.com/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin)| 
 
 # Data Format
 Name| Address| Desc
