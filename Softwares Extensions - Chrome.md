@@ -47,12 +47,6 @@ Name| Address| Desc
 -|-|-|
 JSONVue|[JSONVue](https://chromewebstore.google.com/detail/chklaanhfefbnpoihckbnefhakgolnmc)| 
 
-# Data Monitor
-Name| Address|Desc
--|-|-|
-NetMeter Web|[NetMeter Web](https://chromewebstore.google.com/detail/netmeter-web/jnjnledlnjnkfgepmadpfdljbmdhcihi)| 
-CeptIn Data Usage Tracker|[CeptIn Data Usage Tracker](https://chromewebstore.google.com/detail/ceptin-data-usage-tracker/aegaaipdlmmiohdaccndaiaaihfnnbbn)| 
-ByteGuard|[ByteGuard](https://chromewebstore.google.com/detail/byteguard-%E2%80%94-bandwidth-bud/naejpclmhhijfmpdehhpmaijlmigfdhj)| 
 
 # Downloader 
 Name| Address|Desc
@@ -116,6 +110,19 @@ Proxy SwitchyOmega 3|[Proxy SwitchyOmega 3](https://chromewebstore.google.com/de
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 ActivityWatch Web Watcher|[github.com/ActivityWatch/aw-watcher-web](https://github.com/ActivityWatch/aw-watcher-web)|<img src="https://img.shields.io/github/stars/ActivityWatch/aw-watcher-web?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ActivityWatch/aw-watcher-web?style=for-the-badge" />|
+
+# Network Monitor
+Data Monitor
+Name| Address|Desc
+-|-|-|
+NetMeter Web|[NetMeter Web](https://chromewebstore.google.com/detail/netmeter-web/jnjnledlnjnkfgepmadpfdljbmdhcihi)| 
+CeptIn Data Usage Tracker|[CeptIn Data Usage Tracker](https://chromewebstore.google.com/detail/ceptin-data-usage-tracker/aegaaipdlmmiohdaccndaiaaihfnnbbn)| 
+ByteGuard|[ByteGuard](https://chromewebstore.google.com/detail/byteguard-%E2%80%94-bandwidth-bud/naejpclmhhijfmpdehhpmaijlmigfdhj)| 
+
+Network Quality
+Name| Address|Desc
+-|-|-|
+Network Monitor|[Network Monitor](https://chromewebstore.google.com/detail/network-monitor/hknlclmampgjlgmnlihfohdinjbagmge)| 
 
 # Script 
 Name| Address | Desc
