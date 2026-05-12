@@ -160,6 +160,7 @@ Microsoft.Extensions.DependencyInjection|[NuGet](https://www.nuget.org/packages/
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 MailKit|[jstedfast/mailkit](https://github.com/jstedfast/mailkit)|<img src="https://img.shields.io/github/stars/jstedfast/mailkit?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/jstedfast/mailkit?style=for-the-badge&label=" />|
+FluentEmail|[lukencode/FluentEmail](https://github.com/lukencode/FluentEmail)|<img src="https://img.shields.io/github/stars/lukencode/FluentEmail?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/lukencode/FluentEmail?style=for-the-badge&label=" />|
 
 # Environment 
 Name| Address | Star| Last Update
