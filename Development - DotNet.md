@@ -156,6 +156,11 @@ Autofac|[autofac/Autofac](https://github.com/autofac/Autofac)|<img src="https://
 Microsoft.Extensions.DependencyInjection|[NuGet](https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection)||||
 
 
+# Email
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+MailKit|[jstedfast/mailkit](https://github.com/jstedfast/mailkit)|<img src="https://img.shields.io/github/stars/jstedfast/mailkit?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/jstedfast/mailkit?style=for-the-badge&label=" />|
+
 # Environment 
 Name| Address | Star| Last Update
 -|-|-|-|
