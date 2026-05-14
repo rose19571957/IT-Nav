@@ -18,6 +18,11 @@ Name| Address | Desc
 -|-|-|
 Keep Computer Awake|[Keep Computer Awake](https://chromewebstore.google.com/detail/keep-computer-awake-for-a/imbpigcghoambmanjekibelfjemnnool)| 
 
+# Cache Manager
+Name| Address|Desc
+-|-|-|
+Cache Killer|[Cache Killer](https://chromewebstore.google.com/detail/cache-killer/mobkodffjnomdafehbljjphjaipbenpm)| 
+Cache Disabler|[Cache Disabler](https://chromewebstore.google.com/detail/cache-disabler/kemenddblaeehafanidlkolmdgdeffbp)| 
 
 # Cookie Manager
 Name| Address|Desc
