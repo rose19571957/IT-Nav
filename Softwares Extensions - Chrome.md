@@ -81,7 +81,7 @@ Better History|[Better History](https://chromewebstore.google.com/detail/better-
 Name| Address | Desc
 -|-|-|
 Image Size Checker|[Image Size Checker](https://chromewebstore.google.com/detail/image-size-checker/dhaldejbjjbmbbglikgmepdnopamegeg)| 
-
+Download All Images|[Download All Images](https://chromewebstore.google.com/detail/download-all-images/nnffbdeachhbpfapjklmpnmjcgamcdmm)| 
 
 # Privacy Clean
 Name| Address| Desc
