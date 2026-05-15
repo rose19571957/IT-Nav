@@ -137,6 +137,7 @@ Network Quality
 Name| Address|Desc
 -|-|-|
 Network Monitor|[Network Monitor](https://chromewebstore.google.com/detail/network-monitor/hknlclmampgjlgmnlihfohdinjbagmge)| 
+Real-Time Internet Speed Monitor|[Real-Time Internet Speed Monitor](https://chromewebstore.google.com/detail/real-time-internet-speed/baffnjfijbgpjchgdmbnpkloeccnhenl)| 
 
 # Script 
 Name| Address | Desc
