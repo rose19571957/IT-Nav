@@ -175,6 +175,24 @@ Name| Address | Desc
 Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/open-same-tab/fpkmdincjjgncpbbmeclgbpjmgdehmph)|
 Vertical Tabs in Side Panel|[Vertical Tabs in Side Panel](https://chromewebstore.google.com/detail/vertical-tabs-in-side-pan/akahnknmcbmgodngfjcflnaljdbhnlfo)| 
 
+# Teams
+Chat
+Name| Address | Desc
+-|-|-|
+Teams Chat Exporter|[Teams Chat Exporter](https://chromewebstore.google.com/detail/teams-chat-exporter/jmghclbfbbapimhbgnpffbimphlpolnm)| 
+Teams Chat Backup|[Teams Chat Backup](https://chromewebstore.google.com/detail/teams-chat-backup/ijpmkkmgpdjdjpgmochlhadmmdmmncjm)| 
+
+Live
+Name| Address | Desc
+-|-|-|
+MS Teams Live Captions Saver|[MS Teams Live Captions Saver](https://chromewebstore.google.com/detail/ms-teams-live-captions-sa/ffjfmokaelmhincapcajcnaoelgmpoih)| 
+
+Status
+Name| Address | Desc
+-|-|-|
+User Presence for MS Teams Web Client|[User Presence for MS Teams Web Client](https://chromewebstore.google.com/detail/user-presence-for-ms-team/hflmejmkbcfopbikokgighplfdmmkjha)| 
+
+
 # Translate
 Name| Address | Desc
 -|-|-|
