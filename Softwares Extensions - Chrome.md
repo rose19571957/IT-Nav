@@ -179,6 +179,7 @@ Vertical Tabs in Side Panel|[Vertical Tabs in Side Panel](https://chromewebstore
 Name| Address | Desc
 -|-|-|
 Google Translate|[Google Translate](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)| 
+Google Translate Plus|[Google Translate Plus](https://chromewebstore.google.com/detail/google-translate-plus/jomhcfmjbfkigcepcfkcpknnppmdopmc)| 
 
 # User Agent 
 Name| Address | Desc
