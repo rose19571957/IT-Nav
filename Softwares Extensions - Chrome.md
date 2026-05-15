@@ -75,6 +75,9 @@ Enhanced Github|[github.com/softvar/enhanced-github](https://github.com/softvar/
 Name| Address | Desc
 -|-|-|
 Boomerang for Gmail|[Boomerang for Gmail](https://chromewebstore.google.com/detail/boomerang-for-gmail/mdanidgdpmkimeiiojknlnekblgmpdll)| 
+Checker Plus for Gmail|[Checker Plus for Gmail](https://chromewebstore.google.com/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj)| 
+Streak CRM for Gmail|[Streak CRM for Gmail](https://chromewebstore.google.com/detail/streak-crm-for-gmail/pnnfemgpilpdaojpnkjdgfgbnnjojfik)| 
+GMass: Powerful mail merge for Gmail|[GMass: Powerful mail merge for Gmail](https://chromewebstore.google.com/detail/gmass-powerful-mail-merge/ehomdgjhgmbidokdgicgmdiedadncbgf)| 
 
 # History
 Name| Address | Desc
