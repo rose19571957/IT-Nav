@@ -208,6 +208,7 @@ Ad
 Name| Address | Desc
 -|-|-|
 Adblock for Youtube|[Adblock for Youtube](https://chromewebstore.google.com/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk)| 
+Video Ad Block Youtube|[Video Ad Block Youtube](https://chromewebstore.google.com/detail/video-ad-block-youtube/okepkpmjhegbhmnnondmminfgfbjddpb)| 
 
 Shorts
 Name| Address | Desc
