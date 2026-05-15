@@ -132,6 +132,13 @@ Name| Address| Desc
 -|-|-|
 Notifications and More for Outlook Web App|[Notifications and More for Outlook Web App](https://chromewebstore.google.com/detail/notifications-and-more-fo/aldmgmgmjomckcjljebhedkkgbjodbih)| 
 
+# Pin
+Name| Address| Desc
+-|-|-|
+Always on Top Window|[Always on Top Window](https://chromewebstore.google.com/detail/always-on-top-window/kmmfdmaiadakelcogiabcebofcgfkdma)| 
+Pin-It|[Pin-It](https://chromewebstore.google.com/detail/pin-it/iaebojjjijdaeinlldahkekclhdjgkme)| 
+Keep One Pinned Tab|[Keep One Pinned Tab](https://chromewebstore.google.com/detail/keep-one-pinned-tab/nmcefdbkkkjndgafnlaikloffhdeknod)| 
+
 # Postman
 Name| Address| Desc
 -|-|-|
