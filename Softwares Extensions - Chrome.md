@@ -160,11 +160,11 @@ Proxy SwitchyOmega 3|[Proxy SwitchyOmega 3](https://chromewebstore.google.com/de
 Name| Address | Desc
 -|-|-|
 PWA Install Block|[PWA Install Block](https://chromewebstore.google.com/detail/pwa-install-block/ieadfjdkjpnoafofpolljfnejbgppgad)| 
+Website to App|[Website to App](https://chromewebstore.google.com/detail/website-to-app/kfkgofimfljhalnilhmhhokkfalaflod)| 
+Better PWAs|[Better PWAs](https://chromewebstore.google.com/detail/better-pwas/cgdjkbhcmhiohbnijiggceppemlfogio)| 
 Slack PWA|[Slack PWA](https://chromewebstore.google.com/detail/slack-pwa/llnpadfplnebjlenlkkjfblppjeakoja)| 
 Slack PWA Extension|[Slack PWA Extension](https://chromewebstore.google.com/detail/slack-pwa-extension/oinpddlgkjknoaaflhafglpcoajfoffm)| 
-Better PWAs|[Better PWAs](https://chromewebstore.google.com/detail/better-pwas/cgdjkbhcmhiohbnijiggceppemlfogio)| 
 Multi-Email/App Taskbar/Dock PWA Unread Badge|[Multi-Email/App Taskbar/Dock PWA Unread Badge](https://chromewebstore.google.com/detail/multi-emailapp-taskbardoc/ipeimmibpbandhbpndfdbjpdodcjdbdo)| 
-Website to App|[Website to App](https://chromewebstore.google.com/detail/website-to-app/kfkgofimfljhalnilhmhhokkfalaflod)| 
 
 # Redirect
 Name| Address| Desc
