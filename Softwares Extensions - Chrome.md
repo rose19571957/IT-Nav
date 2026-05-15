@@ -83,41 +83,7 @@ Name| Address | Desc
 Image Size Checker|[Image Size Checker](https://chromewebstore.google.com/detail/image-size-checker/dhaldejbjjbmbbglikgmepdnopamegeg)| 
 Download All Images|[Download All Images](https://chromewebstore.google.com/detail/download-all-images/nnffbdeachhbpfapjklmpnmjcgamcdmm)| 
 
-# Privacy Clean
-Name| Address| Desc
--|-|-|
-Clean Master|[Clean Master](https://chromewebstore.google.com/detail/clean-master-the-best-chr/eagiakjmjnblliacokhcalebgnhellfi?hl=en)| 
 
-# Redirect
-Name| Address| Desc
--|-|-|
-Redirect Path|[Redirect Path](https://chromewebstore.google.com/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll)| 
-Link Redirect Trace|[Link Redirect Trace](https://chromewebstore.google.com/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh)| 
-
-# reCAPTCHA
-Name| Address | Star| Last Update| Desc
--|-|-|-|-|
-reCAPTCHA|[github.com/dessant/buster](https://github.com/dessant/buster)|<img src="https://img.shields.io/github/stars/dessant/buster?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dessant/buster?style=for-the-badge" />|
-
-
-# Refresh
-Name| Address| Desc
--|-|-|
-Auto Refresh Plus|[Auto Refresh Plus](https://chromewebstore.google.com/detail/hgeljhfekpckiiplhkigfehkdpldcggm)| 
-
-
-
-# Play Manager
-Name| Address | Desc
--|-|-|
-Tab Muter|[Tab Muter](https://chromewebstore.google.com/detail/tab-muter/bnclejfcblondkjliiblkojdeloomadd)|
-Volume Master|[Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke)|
-Smart Mute|[Smart Mute](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh)|
-
-# Proxy Tool
-Name| Address | Desc
--|-|-|
-Proxy SwitchyOmega 3|[Proxy SwitchyOmega 3](https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped)| 
 
 
 # Monitor
@@ -141,6 +107,45 @@ Real-Time Internet Speed Monitor|[Real-Time Internet Speed Monitor](https://chro
 Speed Test|[Speed Test](https://chromewebstore.google.com/detail/speed-test-test-the-inter/bgdllkogfkdjdpaholocflnnabbgjjdc)| 
 
 
+
+
+
+# Privacy Clean
+Name| Address| Desc
+-|-|-|
+Clean Master|[Clean Master](https://chromewebstore.google.com/detail/clean-master-the-best-chr/eagiakjmjnblliacokhcalebgnhellfi?hl=en)| 
+
+
+# Play Manager
+Name| Address | Desc
+-|-|-|
+Tab Muter|[Tab Muter](https://chromewebstore.google.com/detail/tab-muter/bnclejfcblondkjliiblkojdeloomadd)|
+Volume Master|[Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke)|
+Smart Mute|[Smart Mute](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh)|
+
+# Proxy Tool
+Name| Address | Desc
+-|-|-|
+Proxy SwitchyOmega 3|[Proxy SwitchyOmega 3](https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped)| 
+
+
+# Redirect
+Name| Address| Desc
+-|-|-|
+Redirect Path|[Redirect Path](https://chromewebstore.google.com/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll)| 
+Link Redirect Trace|[Link Redirect Trace](https://chromewebstore.google.com/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh)| 
+
+# reCAPTCHA
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+reCAPTCHA|[github.com/dessant/buster](https://github.com/dessant/buster)|<img src="https://img.shields.io/github/stars/dessant/buster?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dessant/buster?style=for-the-badge" />|
+
+# Refresh
+Name| Address| Desc
+-|-|-|
+Auto Refresh Plus|[Auto Refresh Plus](https://chromewebstore.google.com/detail/hgeljhfekpckiiplhkigfehkdpldcggm)| 
+
+
 # Script 
 Name| Address | Desc
 -|-|-|
@@ -160,6 +165,7 @@ Datalayer Checker|[Datalayer Checker](https://chromewebstore.google.com/detail/f
 Name| Address | Desc
 -|-|-|
 Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/open-same-tab/fpkmdincjjgncpbbmeclgbpjmgdehmph)|
+Vertical Tabs in Side Panel|[Vertical Tabs in Side Panel](https://chromewebstore.google.com/detail/vertical-tabs-in-side-pan/akahnknmcbmgodngfjcflnaljdbhnlfo)| 
 
 # User Agent 
 Name| Address | Desc
