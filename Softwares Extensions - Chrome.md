@@ -138,6 +138,8 @@ Name| Address|Desc
 -|-|-|
 Network Monitor|[Network Monitor](https://chromewebstore.google.com/detail/network-monitor/hknlclmampgjlgmnlihfohdinjbagmge)| 
 Real-Time Internet Speed Monitor|[Real-Time Internet Speed Monitor](https://chromewebstore.google.com/detail/real-time-internet-speed/baffnjfijbgpjchgdmbnpkloeccnhenl)| 
+Speed Test|[Speed Test](https://chromewebstore.google.com/detail/speed-test-test-the-inter/bgdllkogfkdjdpaholocflnnabbgjjdc)| 
+
 
 # Script 
 Name| Address | Desc
