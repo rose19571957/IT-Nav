@@ -175,6 +175,11 @@ Name| Address | Desc
 Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/open-same-tab/fpkmdincjjgncpbbmeclgbpjmgdehmph)|
 Vertical Tabs in Side Panel|[Vertical Tabs in Side Panel](https://chromewebstore.google.com/detail/vertical-tabs-in-side-pan/akahnknmcbmgodngfjcflnaljdbhnlfo)| 
 
+# Translate
+Name| Address | Desc
+-|-|-|
+Google Translate|[Google Translate](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)| 
+
 # User Agent 
 Name| Address | Desc
 -|-|-|
