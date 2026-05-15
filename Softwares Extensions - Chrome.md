@@ -208,9 +208,16 @@ Datalayer Checker|[Datalayer Checker](https://chromewebstore.google.com/detail/f
 # Tab
 Name| Address | Desc
 -|-|-|
-Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/open-same-tab/fpkmdincjjgncpbbmeclgbpjmgdehmph)|
 Vertical Tabs in Side Panel|[Vertical Tabs in Side Panel](https://chromewebstore.google.com/detail/vertical-tabs-in-side-pan/akahnknmcbmgodngfjcflnaljdbhnlfo)| 
 Tab Manager Plus for Chrome|[Tab Manager Plus for Chrome](https://chromewebstore.google.com/detail/tab-manager-plus-for-chro/cnkdjjdmfiffagllbiiilooaoofcoeff)| 
+
+One Tab
+Name| Address | Desc
+-|-|-|
+Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/open-same-tab/fpkmdincjjgncpbbmeclgbpjmgdehmph)|
+One Tab Only|[One Tab Only](https://chromewebstore.google.com/detail/one-tab-only/cdkbmeoilbjdnbaonjnenjdafkgaeabo)| 
+Single Tab Manager|[Single Tab Manager](https://chromewebstore.google.com/detail/single-tab-manager-focus/lphkjckhncbcfebibdcnffbbmjmaljcm)| 
+Open link in same tab, pop-up as tab|[Open link in same tab, pop-up as tab](https://chromewebstore.google.com/detail/open-link-in-same-tab-pop/npnncoldkhcnpijbhmhpaeojgholpfoi| 
 
 # Teams
 Chat
