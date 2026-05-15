@@ -202,7 +202,7 @@ Name| Address | Desc
 -|-|-|
 Music Mode for YouTube|[Music Mode for YouTube](https://chromewebstore.google.com/detail/music-mode-for-youtube/abbpaepbpakcpipajigmlpnhlnbennna)| 
 Return YouTube Dislike|[Return YouTube Dislike](https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)| 
-SponsorBlock for YouTube|[SponsorBlock for YouTube](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)| 
+Enhancer for YouTube|[Enhancer for YouTube](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle)| 
 
 Ad
 Name| Address | Desc
@@ -215,5 +215,10 @@ Name| Address | Desc
 -|-|-|
 Youtube-shorts block|[Youtube-shorts block](https://chromewebstore.google.com/detail/youtube-shorts-block/jiaopdjbehhjgokpphdfgmapkobbnmjp)| 
 No YouTube Shorts|[No YouTube Shorts](https://chromewebstore.google.com/detail/no-youtube-shorts/hjfkenebldkfgibelglepinlabpjfbll)| 
+
+Sponsor
+Name| Address | Desc
+-|-|-|
+SponsorBlock for YouTube|[SponsorBlock for YouTube](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)| 
 
 
