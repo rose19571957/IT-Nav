@@ -60,6 +60,12 @@ Video Downloader Plus|[Video Downloader Plus](https://chromewebstore.google.com/
 bilibili哔哩哔哩下载助手|[Chrome Web Store](https://chromewebstore.google.com/detail/bilibili%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B/bfcbfobhcjbkilcbehlnlchiinokiijp)|video
 Bilibili Helper|[Chrome Web Store](https://chromewebstore.google.com/detail/acg-helper-designed-for-b/kpbnombpnpcffllnianjibmpadjolanh)|video
 
+
+# Douyin 
+Name| Address|Desc
+-|-|-|
+Douyin Video Downloader|[Douyin Video Downloader](https://chromewebstore.google.com/detail/douyin-video-downloader/knbeilbpfnelpbeoofhnkfbfcldpfehn)| 
+
 # Form 
 Name| Address|Desc
 -|-|-|
