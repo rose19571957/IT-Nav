@@ -210,6 +210,7 @@ Name| Address | Desc
 -|-|-|
 Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/open-same-tab/fpkmdincjjgncpbbmeclgbpjmgdehmph)|
 Vertical Tabs in Side Panel|[Vertical Tabs in Side Panel](https://chromewebstore.google.com/detail/vertical-tabs-in-side-pan/akahnknmcbmgodngfjcflnaljdbhnlfo)| 
+Tab Manager Plus for Chrome|[Tab Manager Plus for Chrome](https://chromewebstore.google.com/detail/tab-manager-plus-for-chro/cnkdjjdmfiffagllbiiilooaoofcoeff)| 
 
 # Teams
 Chat
@@ -256,6 +257,13 @@ Video Downloader Professional|[Video Downloader Professional](https://chromewebs
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 SponsorBlock|[ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock)|<img src="https://img.shields.io/github/stars/ajayyy/SponsorBlock?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ajayyy/SponsorBlock?style=for-the-badge" />|
+
+# Window 
+Name| Address | Desc
+-|-|-|
+Single Window (open links in active window)|[Single Window (open links in active window)](https://chromewebstore.google.com/detail/single-window-open-links/pnbbookneacpggbngfmhfggennhigonh)| 
+Organize Windows and Tabs|[Organize Windows and Tabs](https://chromewebstore.google.com/detail/organize-windows-and-tabs/ecdpecnghdabcaloifcmpjaimlnnjigi)| 
+Open pop-up as tab|[Open pop-up as tab](https://chromewebstore.google.com/detail/open-pop-up-as-tab/ahkigobklmfjfoddojojphffagkfakpc)| 
 
 # YouTube 
 Name| Address | Desc
