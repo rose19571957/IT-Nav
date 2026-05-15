@@ -196,3 +196,8 @@ Video Downloader Professional|[Video Downloader Professional](https://chromewebs
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 SponsorBlock|[ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock)|<img src="https://img.shields.io/github/stars/ajayyy/SponsorBlock?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ajayyy/SponsorBlock?style=for-the-badge" />|
+
+# YouTube 
+Name| Address | Desc
+-|-|-|
+Music Mode for YouTube|[Music Mode for YouTube](https://chromewebstore.google.com/detail/music-mode-for-youtube/abbpaepbpakcpipajigmlpnhlnbennna)| 
