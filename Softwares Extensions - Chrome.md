@@ -114,8 +114,16 @@ Network Monitor|[Network Monitor](https://chromewebstore.google.com/detail/netwo
 Real-Time Internet Speed Monitor|[Real-Time Internet Speed Monitor](https://chromewebstore.google.com/detail/real-time-internet-speed/baffnjfijbgpjchgdmbnpkloeccnhenl)| 
 Speed Test|[Speed Test](https://chromewebstore.google.com/detail/speed-test-test-the-inter/bgdllkogfkdjdpaholocflnnabbgjjdc)| 
 
+# Outlook
+Name| Address| Desc
+-|-|-|
+Enhanced Outlook Web App|[Enhanced Outlook Web App](https://chromewebstore.google.com/detail/enhanced-outlook-web-app/ejolmkmnegbamafoknjamlggejcikonk)| 
+Outlook Web Plus|[Outlook Web Plus](https://chromewebstore.google.com/detail/outlook-web-plus/jgomcpcjiffhcbmodgkekfenhhmjphpn)| 
 
-
+Notification
+Name| Address| Desc
+-|-|-|
+Notifications and More for Outlook Web App|[Notifications and More for Outlook Web App](https://chromewebstore.google.com/detail/notifications-and-more-fo/aldmgmgmjomckcjljebhedkkgbjodbih)| 
 
 
 # Privacy Clean
