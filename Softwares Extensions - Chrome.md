@@ -187,11 +187,17 @@ Name| Address | Desc
 -|-|-|
 MS Teams Live Captions Saver|[MS Teams Live Captions Saver](https://chromewebstore.google.com/detail/ms-teams-live-captions-sa/ffjfmokaelmhincapcajcnaoelgmpoih)| 
 
+Notifications
+Name| Address | Desc
+-|-|-|
+Badge Notifications for MS Teams PWA|[Badge Notifications for MS Teams PWA](https://chromewebstore.google.com/detail/badge-notifications-for-m/opcgcmanfocenaiippbgachholecmakm)| 
+
+
 Status
 Name| Address | Desc
 -|-|-|
 User Presence for MS Teams Web Client|[User Presence for MS Teams Web Client](https://chromewebstore.google.com/detail/user-presence-for-ms-team/hflmejmkbcfopbikokgighplfdmmkjha)| 
-
+Teams Caffeine|[Teams Caffeine](https://chromewebstore.google.com/detail/teams-caffeine/ngijfjcimmlajolmohfpjegneedaflpm)| 
 
 # Translate
 Name| Address | Desc
