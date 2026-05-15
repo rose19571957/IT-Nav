@@ -217,7 +217,7 @@ Name| Address | Desc
 Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/open-same-tab/fpkmdincjjgncpbbmeclgbpjmgdehmph)|
 One Tab Only|[One Tab Only](https://chromewebstore.google.com/detail/one-tab-only/cdkbmeoilbjdnbaonjnenjdafkgaeabo)| 
 Single Tab Manager|[Single Tab Manager](https://chromewebstore.google.com/detail/single-tab-manager-focus/lphkjckhncbcfebibdcnffbbmjmaljcm)| 
-Open link in same tab, pop-up as tab|[Open link in same tab, pop-up as tab](https://chromewebstore.google.com/detail/open-link-in-same-tab-pop/npnncoldkhcnpijbhmhpaeojgholpfoi| 
+Open link in same tab, pop-up as tab|[Open link in same tab, pop-up as tab]|(https://chromewebstore.google.com/detail/open-link-in-same-tab-pop/npnncoldkhcnpijbhmhpaeojgholpfoi| 
 
 # Teams
 Chat
