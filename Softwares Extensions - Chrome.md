@@ -201,3 +201,18 @@ SponsorBlock|[ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock)|<img 
 Name| Address | Desc
 -|-|-|
 Music Mode for YouTube|[Music Mode for YouTube](https://chromewebstore.google.com/detail/music-mode-for-youtube/abbpaepbpakcpipajigmlpnhlnbennna)| 
+Return YouTube Dislike|[Return YouTube Dislike](https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)| 
+SponsorBlock for YouTube|[SponsorBlock for YouTube](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)| 
+
+Ad
+Name| Address | Desc
+-|-|-|
+Adblock for Youtube|[Adblock for Youtube](https://chromewebstore.google.com/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk)| 
+
+Shorts
+Name| Address | Desc
+-|-|-|
+Youtube-shorts block|[Youtube-shorts block](https://chromewebstore.google.com/detail/youtube-shorts-block/jiaopdjbehhjgokpphdfgmapkobbnmjp)| 
+No YouTube Shorts|[No YouTube Shorts](https://chromewebstore.google.com/detail/no-youtube-shorts/hjfkenebldkfgibelglepinlabpjfbll)| 
+
+
