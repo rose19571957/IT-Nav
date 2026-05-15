@@ -132,6 +132,10 @@ Name| Address| Desc
 -|-|-|
 Notifications and More for Outlook Web App|[Notifications and More for Outlook Web App](https://chromewebstore.google.com/detail/notifications-and-more-fo/aldmgmgmjomckcjljebhedkkgbjodbih)| 
 
+# Postman
+Name| Address| Desc
+-|-|-|
+Postman Interceptor|[Postman Interceptor](https://chromewebstore.google.com/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo)| 
 
 # Privacy Clean
 Name| Address| Desc
