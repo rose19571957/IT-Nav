@@ -223,11 +223,13 @@ Screenity|[github.com/alyssaxuu/screenity](https://github.com/alyssaxuu/screenit
 Name| Address | Desc
 -|-|-|
 SearchBar|[SearchBar](https://chromewebstore.google.com/detail/searchbar/fjefgkhmchopegjeicnblodnidbammed)| 
+Search All|[Search All](https://chromewebstore.google.com/detail/search-all/kpdkbemdpepjjppbfgeapjienologapa)| 
 
 # SEO 
 Name| Address | Desc
 -|-|-|
 Datalayer Checker|[Datalayer Checker](https://chromewebstore.google.com/detail/ffljdddodmkedhkcjhpmdajhjdbkogke)|
+
 
 # Tab
 Name| Address | Desc
