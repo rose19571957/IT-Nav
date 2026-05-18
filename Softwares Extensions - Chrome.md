@@ -219,6 +219,11 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Screenity|[github.com/alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)|<img src="https://img.shields.io/github/stars/alyssaxuu/screenity?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/alyssaxuu/screenity?style=for-the-badge" />|
 
+# Search 
+Name| Address | Desc
+-|-|-|
+SearchBar|[SearchBar](https://chromewebstore.google.com/detail/searchbar/fjefgkhmchopegjeicnblodnidbammed)| 
+
 # SEO 
 Name| Address | Desc
 -|-|-|
