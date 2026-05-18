@@ -217,9 +217,9 @@ Same Tab
 Name| Address | Desc
 -|-|-|
 No New Tabs|[No New Tabs](https://chromewebstore.google.com/detail/no-new-tabs/gneobebnilffgkejpfhlgkmpkipgbcno)| 
+Open link in same tab, pop-up as tab|[Open link in same tab, pop-up as tab](https://chromewebstore.google.com/detail/open-link-in-same-tab-pop/npnncoldkhcnpijbhmhpaeojgholpfoi)| 
 Link Control|[Link Control](https://chromewebstore.google.com/detail/link-control/olcpmlhnomiabbndnfplobojnhjljapm)| 
 Link in Current Tab|[Link in Current Tab](https://chromewebstore.google.com/detail/link-in-current-tab/cbkcdebbfbegnmbephalggnchfebihbl)| 
-Open link in same tab, pop-up as tab|[Open link in same tab, pop-up as tab](https://chromewebstore.google.com/detail/open-link-in-same-tab-pop/npnncoldkhcnpijbhmhpaeojgholpfoi)| 
 Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/open-same-tab/fpkmdincjjgncpbbmeclgbpjmgdehmph)|
 
 # Teams
