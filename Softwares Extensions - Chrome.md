@@ -8,6 +8,12 @@ Name| Address | Desc
 -|-|-|
 APKCombo Downloader|[APKCombo Downloader](https://chromewebstore.google.com/detail/apkcombo-downloader/idkigghdjmipnppaeahkpcoaiphjdccm)|Download Android Apps from Google Play Store
 
+# Apps
+Name| Address | Desc
+-|-|-|
+Show Apps in new tab|[Show Apps in new tab](https://chromewebstore.google.com/detail/show-apps-in-new-tab/nohbdifokmdgjcbbeobglcbaifinhfip)| 
+G App Launcher|[G App Launcher](https://chromewebstore.google.com/detail/g-app-launcher-shortcuts/ponjkmladgjfjgllmhnkhgbgocdigcjm)| 
+
 # Authenticator
 Name| Address | Desc
 -|-|-|
@@ -30,6 +36,13 @@ Name| Address|Desc
 -|-|-|
 EditThisCookie|[EditThisCookie](https://www.editthiscookie.com)|
 EditThisCookie (V3)|[EditThisCookie (V3)](https://chromewebstore.google.com/detail/editthiscookie-v3/ojfebgpkimhlhcblbalbfjblapadhbol)|
+
+# CORS
+Name| Address|Desc
+-|-|-|
+Allow CORS: Access-Control-Allow-Origin|[Allow CORS: Access-Control-Allow-Origin](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf)| 
+Cross Domain - CORS|[Cross Domain - CORS](https://chromewebstore.google.com/detail/cross-domain-cors/mjhpgnbimicffchbodmgfnemoghjakai)| 
+CORS Unblock|[CORS Unblock](https://chromewebstore.google.com/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino)| 
 
 # CRX Download 
 Name| Address|Desc
@@ -99,7 +112,12 @@ Image Size Checker|[Image Size Checker](https://chromewebstore.google.com/detail
 Download All Images|[Download All Images](https://chromewebstore.google.com/detail/download-all-images/nnffbdeachhbpfapjklmpnmjcgamcdmm)| 
 
 
-
+# IP
+Name| Address | Desc
+-|-|-|
+Show My IP Addresses (External and Local)|[Show My IP Addresses (External and Local)](https://chromewebstore.google.com/detail/show-my-ip-addresses-exte/opljiobgnagdjikipnagigiacllolpaj)| 
+Show IP|[Show IP](https://chromewebstore.google.com/detail/show-ip/fjoohcddncaboalamhmfdcdkimjeaclj)| 
+Hide My IP|[Hide My IP](https://chromewebstore.google.com/detail/hide-my-ip/pekcnopmdcbjdgmpnpkndppflpldnkkp)| 
 
 # Monitor
 Name| Address | Star| Last Update| Desc
@@ -120,6 +138,7 @@ Name| Address|Desc
 Network Monitor|[Network Monitor](https://chromewebstore.google.com/detail/network-monitor/hknlclmampgjlgmnlihfohdinjbagmge)| 
 Real-Time Internet Speed Monitor|[Real-Time Internet Speed Monitor](https://chromewebstore.google.com/detail/real-time-internet-speed/baffnjfijbgpjchgdmbnpkloeccnhenl)| 
 Speed Test|[Speed Test](https://chromewebstore.google.com/detail/speed-test-test-the-inter/bgdllkogfkdjdpaholocflnnabbgjjdc)| 
+Internet Connection Monitor|[Internet Connection Monitor](https://chromewebstore.google.com/detail/internet-connection-monit/hgccfdagfbilbdbkgmfdmmdfmjjoakfo)| 
 
 # Outlook
 Name| Address| Desc
@@ -216,6 +235,7 @@ New Tab Page
 Name| Address | Desc
 -|-|-|
 Blank New Tab Page|[Blank New Tab Page](https://chromewebstore.google.com/detail/blank-new-tab-page/jaadjnlkjnhohljficgoddcjmndjfdmi)| 
+Dark New Tab|[Dark New Tab](https://chromewebstore.google.com/detail/dark-new-tab/kcphhkbdlfggickaoeiahdcfhagfbajl)| 
 
 Same Tab
 Name| Address | Desc
@@ -310,4 +330,7 @@ Name| Address | Desc
 -|-|-|
 SponsorBlock for YouTube|[SponsorBlock for YouTube](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)| 
 
-
+Zoom
+Name| Address | Desc
+-|-|-|
+Zoom Chrome Extension|[Zoom Chrome Extension](https://chromewebstore.google.com/detail/zoom-chrome-extension/kgjfgplpablkjnlkjmjdecgdpfankdle)| 
