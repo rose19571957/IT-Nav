@@ -20,6 +20,7 @@ Name| Address | Desc
 -|-|-|
 Authenticator|[Authenticator](https://chromewebstore.google.com/detail/bhghoamapcdpbohphigoooaddinpkbai)|2FA
 Web2FA - Authenticator|[Web2FA - Authenticator](https://chromewebstore.google.com/detail/web2fa-authenticator/gmegpkknicehidppoebnmbhndjigpica)|2FA
+Authenticator|[Authenticator](https://chromewebstore.google.com/detail/authenticator/mcepngaknmjcicgmkbcdopjpppnankna)| 
 
 # Awake
 Name| Address | Desc
