@@ -31,13 +31,6 @@ Name| Address|Desc
 EditThisCookie|[EditThisCookie](https://www.editthiscookie.com)|
 EditThisCookie (V3)|[EditThisCookie (V3)](https://chromewebstore.google.com/detail/editthiscookie-v3/ojfebgpkimhlhcblbalbfjblapadhbol)|
 
-# Chrome Extension Manager
-Name| Address|Desc
--|-|-|
-Extension Manager|[Extension Manager](https://chromewebstore.google.com/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco)|
-
-
-
 # CRX Download 
 Name| Address|Desc
 -|-|-|
@@ -66,6 +59,13 @@ Bilibili Helper|[Chrome Web Store](https://chromewebstore.google.com/detail/acg-
 Name| Address|Desc
 -|-|-|
 Douyin Video Downloader|[Douyin Video Downloader](https://chromewebstore.google.com/detail/douyin-video-downloader/knbeilbpfnelpbeoofhnkfbfcldpfehn)| 
+
+# Extensions 
+Name| Address|Desc
+-|-|-|
+Disable All Extensions|[Disable All Extensions](https://chromewebstore.google.com/detail/disable-all-extensions/ailfldpmpboolaihojfagmmfbhcgohne)| 
+Extension Manager|[Extension Manager](https://chromewebstore.google.com/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco)|
+Disable Extensions Temporarily|[Disable Extensions Temporarily](https://chromewebstore.google.com/detail/disable-extensions-tempor/lcfdefmogcogicollfebhgjiiakbjdje)| 
 
 # Form 
 Name| Address|Desc
