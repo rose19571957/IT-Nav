@@ -212,7 +212,6 @@ Vertical Tabs in Side Panel|[Vertical Tabs in Side Panel](https://chromewebstore
 Tab Manager Plus for Chrome|[Tab Manager Plus for Chrome](https://chromewebstore.google.com/detail/tab-manager-plus-for-chro/cnkdjjdmfiffagllbiiilooaoofcoeff)| 
 Single Tab Manager|[Single Tab Manager](https://chromewebstore.google.com/detail/single-tab-manager-focus/lphkjckhncbcfebibdcnffbbmjmaljcm)| 
 
-
 Same Tab
 Name| Address | Desc
 -|-|-|
@@ -221,6 +220,13 @@ Open link in same tab, pop-up as tab|[Open link in same tab, pop-up as tab](http
 Link Control|[Link Control](https://chromewebstore.google.com/detail/link-control/olcpmlhnomiabbndnfplobojnhjljapm)| 
 Link in Current Tab|[Link in Current Tab](https://chromewebstore.google.com/detail/link-in-current-tab/cbkcdebbfbegnmbephalggnchfebihbl)| 
 Open Same Tab|[Open Same Tab](https://chromewebstore.google.com/detail/open-same-tab/fpkmdincjjgncpbbmeclgbpjmgdehmph)|
+
+Tab Block
+Name| Address | Desc
+-|-|-|
+TabBlock|[TabBlock](https://chromewebstore.google.com/detail/tabblock/ljmkpdhploeaohmnljbbkohmmfkikklj)| 
+New-Tab Blocker|[New-Tab Blocker](https://chromewebstore.google.com/detail/new-tab-blocker/bkanhpjdajkdnibkplooolgpidgfjfnn)| 
+
 
 # Teams
 Chat
