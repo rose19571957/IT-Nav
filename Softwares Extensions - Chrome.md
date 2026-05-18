@@ -319,7 +319,9 @@ Name| Address | Desc
 Music Mode for YouTube|[Music Mode for YouTube](https://chromewebstore.google.com/detail/music-mode-for-youtube/abbpaepbpakcpipajigmlpnhlnbennna)| 
 Enhancer for YouTube|[Enhancer for YouTube](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle)| 
 
-Like/Dislike
+Like & Dislike
+Name| Address | Desc
+-|-|-|
 Return YouTube Dislike|[Return YouTube Dislike](https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)| 
 
 Ad
