@@ -104,7 +104,6 @@ GMass: Powerful mail merge for Gmail|[GMass: Powerful mail merge for Gmail](http
 Name| Address | Desc
 -|-|-|
 Better History|[Better History](https://chromewebstore.google.com/detail/better-history-manage-exp/egehpkpgpgooebopjihjmnpejnjafefi)| 
-Better History|[Better History](https://chromewebstore.google.com/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi?hl=en)| 
 
 # Image
 Name| Address | Desc
