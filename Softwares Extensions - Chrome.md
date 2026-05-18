@@ -13,6 +13,7 @@ Name| Address | Desc
 -|-|-|
 Show Apps in new tab|[Show Apps in new tab](https://chromewebstore.google.com/detail/show-apps-in-new-tab/nohbdifokmdgjcbbeobglcbaifinhfip)| 
 G App Launcher|[G App Launcher](https://chromewebstore.google.com/detail/g-app-launcher-shortcuts/ponjkmladgjfjgllmhnkhgbgocdigcjm)| 
+Website to App|[Website to App](https://chromewebstore.google.com/detail/website-to-app/kfkgofimfljhalnilhmhhokkfalaflod)| 
 
 # Authenticator
 Name| Address | Desc
