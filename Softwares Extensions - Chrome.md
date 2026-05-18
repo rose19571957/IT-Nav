@@ -317,8 +317,10 @@ Open pop-up as tab|[Open pop-up as tab](https://chromewebstore.google.com/detail
 Name| Address | Desc
 -|-|-|
 Music Mode for YouTube|[Music Mode for YouTube](https://chromewebstore.google.com/detail/music-mode-for-youtube/abbpaepbpakcpipajigmlpnhlnbennna)| 
-Return YouTube Dislike|[Return YouTube Dislike](https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)| 
 Enhancer for YouTube|[Enhancer for YouTube](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle)| 
+
+Like/Dislike
+Return YouTube Dislike|[Return YouTube Dislike](https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)| 
 
 Ad
 Name| Address | Desc
