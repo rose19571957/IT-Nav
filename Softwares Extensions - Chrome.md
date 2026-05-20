@@ -240,14 +240,15 @@ Vertical Tabs in Side Panel|[Vertical Tabs in Side Panel](https://chromewebstore
 Tab Manager Plus for Chrome|[Tab Manager Plus for Chrome](https://chromewebstore.google.com/detail/tab-manager-plus-for-chro/cnkdjjdmfiffagllbiiilooaoofcoeff)| 
 Single Tab Manager|[Single Tab Manager](https://chromewebstore.google.com/detail/single-tab-manager-focus/lphkjckhncbcfebibdcnffbbmjmaljcm)| 
 
-## New Tab
-Empty
+Empty - New Tab
 Name| Address | Desc
 -|-|-|
 Blank New Tab Page|[Blank New Tab Page](https://chromewebstore.google.com/detail/blank-new-tab-page/jaadjnlkjnhohljficgoddcjmndjfdmi)| 
 Empty New Tab Page|[Empty New Tab Page](https://chromewebstore.google.com/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij)| 
+New Tab|[New Tab](https://chromewebstore.google.com/detail/new-tab/adcpijkmbecohfalcbafjgadfnpchhlg)| 
 
-Theme
+
+Theme - New Tab
 Name| Address | Desc
 -|-|-|
 Dark New Tab|[Dark New Tab](https://chromewebstore.google.com/detail/dark-new-tab/kcphhkbdlfggickaoeiahdcfhagfbajl)| 
