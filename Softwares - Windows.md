@@ -106,7 +106,7 @@ SQL Server 2017|[www.microsoft.com/en-us/sql-server/sql-server-2017](https://www
 SQL Server 2016|[www.microsoft.com/en-us/sql-server/sql-server-2016](https://www.microsoft.com/en-us/sql-server/sql-server-2016)|
 SQL Server 2005-2014|[learn.microsoft.com/en-us/previous-versions/sql](https://learn.microsoft.com/en-us/previous-versions/sql)|
 
-# Database Client
+Database Client
 Name| Address | Desc
 -|-|-|
 Azure Data Studio|[learn.microsoft.com/en-us/azure-data-studio](https://learn.microsoft.com/en-us/azure-data-studio)|
