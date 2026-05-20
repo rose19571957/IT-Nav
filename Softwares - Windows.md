@@ -341,11 +341,13 @@ TaskExplorer|[DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExp
 # Terminal
 Name| Address | Desc
 -|-|-|
-FinalShell|[www.hostbuf.com](https://www.hostbuf.com/)|-|-|Windows、Linux
+FinalShell|[www.hostbuf.com](https://www.hostbuf.com/)|Windows、Linux
 Remote Desktop Connection Manager|[Remote Desktop Connection Manager](https://learn.microsoft.com/en-us/sysinternals/downloads/rdcman)|Windows
 WinSCP|[winscp.net](https://winscp.net/)|FTP、SCP、WebDAV、S3 - Free
 FileZilla|[filezilla-project.org](https://filezilla-project.org/)|FTP
 S3 Browser|[s3browser.com/](https://s3browser.com)|S3 - Free Limit
+PuTTY|[putty.org/](https://putty.org/index.html)|a free SSH and Telnet client
+
 
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
