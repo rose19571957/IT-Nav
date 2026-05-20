@@ -246,7 +246,7 @@ Name| Address | Desc
 Blank New Tab Page|[Blank New Tab Page](https://chromewebstore.google.com/detail/blank-new-tab-page/jaadjnlkjnhohljficgoddcjmndjfdmi)| 
 Empty New Tab Page|[Empty New Tab Page](https://chromewebstore.google.com/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij)| 
 
-theme
+Theme
 Name| Address | Desc
 -|-|-|
 Dark New Tab|[Dark New Tab](https://chromewebstore.google.com/detail/dark-new-tab/kcphhkbdlfggickaoeiahdcfhagfbajl)| 
