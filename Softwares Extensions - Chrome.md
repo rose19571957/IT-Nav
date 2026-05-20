@@ -239,7 +239,7 @@ Vertical Tabs in Side Panel|[Vertical Tabs in Side Panel](https://chromewebstore
 Tab Manager Plus for Chrome|[Tab Manager Plus for Chrome](https://chromewebstore.google.com/detail/tab-manager-plus-for-chro/cnkdjjdmfiffagllbiiilooaoofcoeff)| 
 Single Tab Manager|[Single Tab Manager](https://chromewebstore.google.com/detail/single-tab-manager-focus/lphkjckhncbcfebibdcnffbbmjmaljcm)| 
 
-## New Tab Page
+## New Tab
 Empty
 Name| Address | Desc
 -|-|-|
