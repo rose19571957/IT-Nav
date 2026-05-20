@@ -151,6 +151,7 @@ Notification
 Name| Address| Desc
 -|-|-|
 Notifications and More for Outlook Web App|[Notifications and More for Outlook Web App](https://chromewebstore.google.com/detail/notifications-and-more-fo/aldmgmgmjomckcjljebhedkkgbjodbih)| 
+Badge Notifications for Outlook PWA|[Badge Notifications for Outlook PWA](https://chromewebstore.google.com/detail/badge-notifications-for-o/elfppjipmocfejmaeaebplcimjagkcma)| 
 
 # Pin
 Name| Address| Desc
