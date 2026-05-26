@@ -7,6 +7,7 @@ ChromeAppHeroes|[github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoole
 Name| Address | Desc
 -|-|-|
 APKCombo Downloader|[APKCombo Downloader](https://chromewebstore.google.com/detail/apkcombo-downloader/idkigghdjmipnppaeahkpcoaiphjdccm)|Download Android Apps from Google Play Store
+APK Downloader|[APK Downloader](https://chromewebstore.google.com/detail/apk-downloader/glngapejbnmnicniccdcemghaoaopdji)|APKPure
 
 # Apps
 Name| Address | Desc
