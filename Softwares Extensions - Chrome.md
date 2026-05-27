@@ -3,6 +3,12 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 ChromeAppHeroes|[github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)|<img src="https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zhaoolee/ChromeAppHeroes?style=for-the-badge" />|-
 
+
+# AD
+Name| Address | Desc
+-|-|-|
+AdBlock — block ads across the web|[AdBlock — block ads across the web](https://chromewebstore.google.com/detail/adblock-%E2%80%94-block-ads-acros/gighmmpiobklfepjocnamgkkbiglidom)|
+
 # Android APK
 Name| Address | Desc
 -|-|-|
