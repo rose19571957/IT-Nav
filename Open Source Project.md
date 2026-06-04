@@ -749,6 +749,12 @@ WeChat QQ TIM 防撤回|[huiyadanli/RevokeMsgPatcher](https://github.com/huiyada
 wechatDataBackup|[git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)|<img src="https://img.shields.io/github/stars/git-jiadong/wechatDataBackup?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/git-jiadong/wechatDataBackup?style=for-the-badge&label=" />|聊天记录备份
 WechatExporter|[BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)|<img src="https://img.shields.io/github/stars/BlueMatthew/WechatExporter?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/BlueMatthew/WechatExporter?style=for-the-badge&label=" />|聊天记录导出
 
+Multi-Instance
+Name| Respository Address | Star| Last Update|Desc
+-|-|-|-|-|
+WechatOnCloud|[Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)|<img src="https://img.shields.io/github/stars/Gloridust/WechatOnCloud?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Gloridust/WechatOnCloud?style=for-the-badge&label=" />|
+
+
 
 # Wiki
 Name| Respository Address | Star| Last Update|Desc
