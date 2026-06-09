@@ -328,7 +328,7 @@ SponsorBlock|[ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock)|<img 
 Name| Address | Desc
 -|-|-|
 Wappalyzer - Technology profiler|[Wappalyzer - Technology profiler](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)| 
-WhatRuns|WhatRuns](https://chromewebstore.google.com/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)| 
+WhatRuns|[WhatRuns](https://chromewebstore.google.com/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)| 
 
 # Window 
 Name| Address | Desc
