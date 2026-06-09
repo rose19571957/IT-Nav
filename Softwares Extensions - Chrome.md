@@ -324,6 +324,11 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 SponsorBlock|[ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock)|<img src="https://img.shields.io/github/stars/ajayyy/SponsorBlock?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ajayyy/SponsorBlock?style=for-the-badge" />|
 
+# Web 
+Name| Address | Desc
+-|-|-|
+Wappalyzer - Technology profiler|[Wappalyzer - Technology profiler](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)| 
+
 # Window 
 Name| Address | Desc
 -|-|-|
