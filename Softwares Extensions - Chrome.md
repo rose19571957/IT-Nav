@@ -203,6 +203,13 @@ Slack PWA|[Slack PWA](https://chromewebstore.google.com/detail/slack-pwa/llnpadf
 Slack PWA Extension|[Slack PWA Extension](https://chromewebstore.google.com/detail/slack-pwa-extension/oinpddlgkjknoaaflhafglpcoajfoffm)| 
 Multi-Email/App Taskbar/Dock PWA Unread Badge|[Multi-Email/App Taskbar/Dock PWA Unread Badge](https://chromewebstore.google.com/detail/multi-emailapp-taskbardoc/ipeimmibpbandhbpndfdbjpdodcjdbdo)| 
 
+
+# QR Code
+Name| Address| Desc
+-|-|-|
+QR Code Generator|[QR Code Generator](https://chromewebstore.google.com/detail/qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp)| 
+
+
 # Redirect
 Name| Address| Desc
 -|-|-|
