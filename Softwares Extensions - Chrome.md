@@ -88,6 +88,8 @@ Name| Address|Desc
 Disable All Extensions|[Disable All Extensions](https://chromewebstore.google.com/detail/disable-all-extensions/ailfldpmpboolaihojfagmmfbhcgohne)| 
 Extension Manager|[Extension Manager](https://chromewebstore.google.com/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco)|
 Disable Extensions Temporarily|[Disable Extensions Temporarily](https://chromewebstore.google.com/detail/disable-extensions-tempor/lcfdefmogcogicollfebhgjiiakbjdje)| 
+Extensity|[Extensity](https://chromewebstore.google.com/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)| 
+
 
 # Form 
 Name| Address|Desc
