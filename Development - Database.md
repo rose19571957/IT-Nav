@@ -44,3 +44,9 @@ Yearning|[cookieY/Yearning](https://github.com/cookieY/Yearning)|<img src="https
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 WrenAI  |[Canner/WrenAI](https://github.com/Canner/WrenAI)|<img src="https://img.shields.io/github/stars/Canner/WrenAI?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Canner/WrenAI?style=for-the-badge" />|
+
+# Test
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+SqlQueryStress|[ErikEJ/SqlQueryStress](https://github.com/ErikEJ/SqlQueryStress)|<img src="https://img.shields.io/github/stars/ErikEJ/SqlQueryStress?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ErikEJ/SqlQueryStress?style=for-the-badge&label=" />|
+
