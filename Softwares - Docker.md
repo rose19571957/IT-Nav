@@ -22,6 +22,7 @@ MySQL|[hub.docker.com/_/mysql](https://hub.docker.com/_/mysql)|||
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Watchtower|[containrrr/watchtower](https://github.com/containrrr/watchtower)<br/>[hub.docker.com/r/containrrr/watchtower](https://hub.docker.com/r/containrrr/watchtower)|<img src="https://img.shields.io/github/stars/containrrr/watchtower?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/containrrr/watchtower?style=for-the-badge" />|Automating Docker Container Base Image Updates
+docker-updater|[liquidguru/docker-updater](https://github.com/liquidguru/docker-updater)|<img src="https://img.shields.io/github/stars/liquidguru/docker-updater?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/liquidguru/docker-updater?style=for-the-badge&label=" />|
 
 
 # Docker - Compose
