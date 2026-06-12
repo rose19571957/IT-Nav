@@ -1,7 +1,7 @@
 # API Manager
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
-Swagger Editor|[swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor)<br/>[hub.docker.com/r/swaggerapi/swagger-editor](https://hub.docker.com/r/swaggerapi/swagger-editor)|<img src="https://img.shields.io/github/stars/swagger-api/swagger-editor?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/swagger-api/swagger-editor?style=for-the-badge" />|
+Swagger Editor|[swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor)<br/>[hub.docker.com/r/swaggerapi/swagger-editor](https://hub.docker.com/r/swaggerapi/swagger-editor)|<img src="https://img.shields.io/github/stars/swagger-api/swagger-editor?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/swagger-api/swagger-editor?style=for-the-badge&label=" />|
 
 # Browser
 Name| Address | Pulls / Star | Last Update| Desc
@@ -9,8 +9,8 @@ Name| Address | Pulls / Star | Last Update| Desc
 standalone-chrome|[hub.docker.com/r/selenium/standalone-chrome](https://hub.docker.com/r/selenium/standalone-chrome)|<img src="https://img.shields.io/docker/pulls/selenium/standalone-chrome?color=%2348BB78&logo=docker&label=pulls" alt="Downloads" />|| for selenium
 alpine-chrome|[hub.docker.com/r/selenium/zenika/alpine-chrome](https://hub.docker.com/r/zenika/alpine-chrome)|<img src="https://img.shields.io/docker/pulls/zenika/alpine-chrome?color=%2348BB78&logo=docker&label=pulls" alt="Downloads" />|| for selenium
 kasmweb/chrome|[hub.docker.com/r/selenium/kasmweb/chrome](https://hub.docker.com/r/kasmweb/chrome)|<img src="https://img.shields.io/docker/pulls/kasmweb/chrome?color=%2348BB78&logo=docker&label=pulls" alt="Downloads" />|| for selenium
-browserless|[browserless/browserless](https://github.com/browserless/browserless)|<img src="https://img.shields.io/github/stars/browserless/browserless?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/browserless/browserless?style=for-the-badge" />|
-Neko|[m1k1o/neko](https://github.com/m1k1o/neko)|<img src="https://img.shields.io/github/stars/m1k1o/neko?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/m1k1o/neko?style=for-the-badge" />|Chrome、Firefox、Tor Browser、Waterfox Etc
+browserless|[browserless/browserless](https://github.com/browserless/browserless)|<img src="https://img.shields.io/github/stars/browserless/browserless?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/browserless/browserless?style=for-the-badge&label=" />|
+Neko|[m1k1o/neko](https://github.com/m1k1o/neko)|<img src="https://img.shields.io/github/stars/m1k1o/neko?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/m1k1o/neko?style=for-the-badge&label=" />|Chrome、Firefox、Tor Browser、Waterfox Etc
 
 # Database
 Name| Address | Star| Last Update| Desc
@@ -21,65 +21,65 @@ MySQL|[hub.docker.com/_/mysql](https://hub.docker.com/_/mysql)|||
 # Docker - Container
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-Watchtower|[containrrr/watchtower](https://github.com/containrrr/watchtower)<br/>[hub.docker.com/r/containrrr/watchtower](https://hub.docker.com/r/containrrr/watchtower)|<img src="https://img.shields.io/github/stars/containrrr/watchtower?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/containrrr/watchtower?style=for-the-badge" />|Automating Docker Container Base Image Updates
+Watchtower|[containrrr/watchtower](https://github.com/containrrr/watchtower)<br/>[hub.docker.com/r/containrrr/watchtower](https://hub.docker.com/r/containrrr/watchtower)|<img src="https://img.shields.io/github/stars/containrrr/watchtower?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/containrrr/watchtower?style=for-the-badge&label=" />|Automating Docker Container Base Image Updates
 docker-updater|[liquidguru/docker-updater](https://github.com/liquidguru/docker-updater)|<img src="https://img.shields.io/github/stars/liquidguru/docker-updater?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/liquidguru/docker-updater?style=for-the-badge&label=" />|
 
 
 # Docker - Compose
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-Dockge|[louislam/dockge](https://github.com/louislam/dockge)<br/>[hub.docker.com/r/louislam/dockge](https://hub.docker.com/r/louislam/dockge)|<img src="https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/louislam/dockge?style=for-the-badge" />|Docker Compose UI Manager
-docker-autocompose|[Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose)|<img src="https://img.shields.io/github/stars/Red5d/docker-autocompose?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Red5d/docker-autocompose?style=for-the-badge" />|Generates a docker-compose.yaml
-Docker Compose Maker |[ajnart/dcm](https://github.com/ajnart/dcm)|<img src="https://img.shields.io/github/stars/ajnart/dcm?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ajnart/dcm?style=for-the-badge" />|
+Dockge|[louislam/dockge](https://github.com/louislam/dockge)<br/>[hub.docker.com/r/louislam/dockge](https://hub.docker.com/r/louislam/dockge)|<img src="https://img.shields.io/github/stars/louislam/dockge?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/louislam/dockge?style=for-the-badge&label=" />|Docker Compose UI Manager
+docker-autocompose|[Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose)|<img src="https://img.shields.io/github/stars/Red5d/docker-autocompose?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Red5d/docker-autocompose?style=for-the-badge&label=" />|Generates a docker-compose.yaml
+Docker Compose Maker |[ajnart/dcm](https://github.com/ajnart/dcm)|<img src="https://img.shields.io/github/stars/ajnart/dcm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ajnart/dcm?style=for-the-badge&label=" />|
 
 # Docker - Image
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-WUD|[getwud/wud](https://github.com/getwud/wud)<br/>[hub.docker.com/r/getwud/wud](https://hub.docker.com/r/getwud/wud)|<img src="https://img.shields.io/github/stars/getwud/wud?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/getwud/wud?style=for-the-badge" />|Image New Version Notification
-Diun|[crazy-max/diun](https://github.com/crazy-max/diun)<br/>[hub.docker.com/r/crazymax/diun](https://hub.docker.com/r/crazymax/diun)|<img src="https://img.shields.io/github/stars/crazy-max/diun?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/crazy-max/diun?style=for-the-badge" />|Image New Version Notification
+WUD|[getwud/wud](https://github.com/getwud/wud)<br/>[hub.docker.com/r/getwud/wud](https://hub.docker.com/r/getwud/wud)|<img src="https://img.shields.io/github/stars/getwud/wud?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/getwud/wud?style=for-the-badge&label=" />|Image New Version Notification
+Diun|[crazy-max/diun](https://github.com/crazy-max/diun)<br/>[hub.docker.com/r/crazymax/diun](https://hub.docker.com/r/crazymax/diun)|<img src="https://img.shields.io/github/stars/crazy-max/diun?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/crazy-max/diun?style=for-the-badge&label=" />|Image New Version Notification
 
 # Docker - UI
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-Portainer|[portainer/portainer](https://github.com/portainer/portainer)<br/>[hub.docker.com/r/portainer/portainer](https://hub.docker.com/r/portainer/portainer)|<img src="https://img.shields.io/github/stars/portainer/portainer?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/portainer/portainer?style=for-the-badge" />|
-Yacht|[SelfhostedPro/Yacht](https://github.com/selfhostedpro/yacht)<br/>[hub.docker.com/r/selfhostedpro/yacht](https://hub.docker.com/r/SelfhostedPro/Yacht)|<img src="https://img.shields.io/github/stars/SelfhostedPro/Yacht?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/SelfhostedPro/Yacht?style=for-the-badge" />|
-DPanel|[donknap/dpanel](https://github.com/donknap/dpanel)|<img src="https://img.shields.io/github/stars/donknap/dpanel?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/donknap/dpanel?style=for-the-badge" />|
+Portainer|[portainer/portainer](https://github.com/portainer/portainer)<br/>[hub.docker.com/r/portainer/portainer](https://hub.docker.com/r/portainer/portainer)|<img src="https://img.shields.io/github/stars/portainer/portainer?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/portainer/portainer?style=for-the-badge&label=" />|
+Yacht|[SelfhostedPro/Yacht](https://github.com/selfhostedpro/yacht)<br/>[hub.docker.com/r/selfhostedpro/yacht](https://hub.docker.com/r/SelfhostedPro/Yacht)|<img src="https://img.shields.io/github/stars/SelfhostedPro/Yacht?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/SelfhostedPro/Yacht?style=for-the-badge&label=" />|
+DPanel|[donknap/dpanel](https://github.com/donknap/dpanel)|<img src="https://img.shields.io/github/stars/donknap/dpanel?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/donknap/dpanel?style=for-the-badge&label=" />|
 
 
 # Mac
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-Docker-OSX|[sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)<br/>[hub.docker.com/r/sickcodes/docker-osx](https://hub.docker.com/r/sickcodes/docker-osx)|<img src="https://img.shields.io/github/stars/sickcodes/Docker-OSX?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/sickcodes/Docker-OSX?style=for-the-badge" />|Run macOS VM in a Docker
+Docker-OSX|[sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)<br/>[hub.docker.com/r/sickcodes/docker-osx](https://hub.docker.com/r/sickcodes/docker-osx)|<img src="https://img.shields.io/github/stars/sickcodes/Docker-OSX?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/sickcodes/Docker-OSX?style=for-the-badge&label=" />|Run macOS VM in a Docker
 
 # Monitor
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-Beszel|[henrygd/beszel](https://github.com/henrygd/beszel)|<img src="https://img.shields.io/github/stars/henrygd/beszel?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/henrygd/beszel?style=for-the-badge" />|
+Beszel|[henrygd/beszel](https://github.com/henrygd/beszel)|<img src="https://img.shields.io/github/stars/henrygd/beszel?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/henrygd/beszel?style=for-the-badge&label=" />|
 
 
 # NAS
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-NAS Tool|[NAStool/nas-tools](https://github.com/NAStool/nas-tools)<br/>[hub.docker.com/r/nastool/nas-tools](https://hub.docker.com/r/nastool/nas-tools)|<img src="https://img.shields.io/github/stars/NAStool/nas-tools?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/NAStool/nas-tools?style=for-the-badge" />|
+NAS Tool|[NAStool/nas-tools](https://github.com/NAStool/nas-tools)<br/>[hub.docker.com/r/nastool/nas-tools](https://hub.docker.com/r/nastool/nas-tools)|<img src="https://img.shields.io/github/stars/NAStool/nas-tools?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/NAStool/nas-tools?style=for-the-badge&label=" />|
 
 # Share Service
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-Samba|[dperson/samba](https://github.com/dperson/samba)<br/>[hub.docker.com/r/dperson/samba](https://hub.docker.com/r/dperson/samba)|<img src="https://img.shields.io/github/stars/dperson/samba?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dperson/samba?style=for-the-badge" />|SMB Protocol
-WebDAV|[BytemarkHosting/docker-webdav](https://github.com/BytemarkHosting/docker-webdav)<br/>[hub.docker.com/r/bytemark/webdav](https://hub.docker.com/r/bytemark/webdav)|<img src="https://img.shields.io/github/stars/BytemarkHosting/docker-webdav?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/BytemarkHosting/docker-webdav?style=for-the-badge" />|WebDAV  Protocol
+Samba|[dperson/samba](https://github.com/dperson/samba)<br/>[hub.docker.com/r/dperson/samba](https://hub.docker.com/r/dperson/samba)|<img src="https://img.shields.io/github/stars/dperson/samba?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/dperson/samba?style=for-the-badge&label=" />|SMB Protocol
+WebDAV|[BytemarkHosting/docker-webdav](https://github.com/BytemarkHosting/docker-webdav)<br/>[hub.docker.com/r/bytemark/webdav](https://hub.docker.com/r/bytemark/webdav)|<img src="https://img.shields.io/github/stars/BytemarkHosting/docker-webdav?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/BytemarkHosting/docker-webdav?style=for-the-badge&label=" />|WebDAV  Protocol
 
 # Storage
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-AList|[AlistGo/alist](https://github.com/AlistGo/alist)|<img src="https://img.shields.io/github/stars/AlistGo/alist?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/AlistGo/alist?style=for-the-badge" />|Storage Aggregation、WebDVA
+AList|[AlistGo/alist](https://github.com/AlistGo/alist)|<img src="https://img.shields.io/github/stars/AlistGo/alist?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/AlistGo/alist?style=for-the-badge&label=" />|Storage Aggregation、WebDVA
 
 # Terminal
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-Filestash|[mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)|<img src="https://img.shields.io/github/stars/mickael-kerjean/filestash?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/mickael-kerjean/filestash?style=for-the-badge" />|S3、FTP、WebDav
+Filestash|[mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)|<img src="https://img.shields.io/github/stars/mickael-kerjean/filestash?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/mickael-kerjean/filestash?style=for-the-badge&label=" />|S3、FTP、WebDav
 
 
 # Virtual Machine
 Name| Address | Star| Last Update
 -|-|-|-|
-Windows On Docker|[dockur/windows](https://github.com/dockur/windows)|<img src="https://img.shields.io/github/stars/dockur/windows?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/dockur/windows?style=for-the-badge" />
+Windows On Docker|[dockur/windows](https://github.com/dockur/windows)|<img src="https://img.shields.io/github/stars/dockur/windows?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/dockur/windows?style=for-the-badge&label=" />
