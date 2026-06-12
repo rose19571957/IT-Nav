@@ -286,6 +286,7 @@ Snipaste|[Snipaste/feedback](https://github.com/Snipaste/feedback)|<img src="htt
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 LightBulb|[Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb)|<img src="https://img.shields.io/github/stars/Tyrrrz/LightBulb?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Tyrrrz/LightBulb?style=for-the-badge&label=" />|Eyeshield
+Twinkle Tray|[xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray)|<img src="https://img.shields.io/github/stars/xanderfrangos/twinkle-tray?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/xanderfrangos/twinkle-tray?style=for-the-badge&label=" />|
 
 
 # Search Tool
