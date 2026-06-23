@@ -25,6 +25,7 @@ RenewHelper |[ieax/renewhelper](https://github.com/ieax/renewhelper)|<img src="h
 Legado  |[gedoor/legado](https://github.com/gedoor/legado)|<img src="https://img.shields.io/github/stars/gedoor/legado?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/gedoor/legado?style=for-the-badge&label=" />|Book
 ApolloFish  |[safe1024/apollofish](https://github.com/safe1024/apollofish)|<img src="https://img.shields.io/github/stars/safe1024/apollofish?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/safe1024/apollofish?style=for-the-badge&label=" />|
 WebToApp |[shiaho777/web-to-app](https://github.com/shiaho777/web-to-app)|<img src="https://img.shields.io/github/stars/shiaho777/web-to-app?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/shiaho777/web-to-app?style=for-the-badge&label=" />|
+NVR  |[2929004360/ruoyi-qs-nvr](https://github.com/2929004360/ruoyi-qs-nvr)|<img src="https://img.shields.io/github/stars/2929004360/ruoyi-qs-nvr?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/2929004360/ruoyi-qs-nvr?style=for-the-badge&label=" />|
 
 
 # 技术架构
