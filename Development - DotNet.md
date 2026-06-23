@@ -56,6 +56,12 @@ Name| Address | Star| Last Update|Desc
 AspectCore Framework|[dotnetcore/AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework)|<img src="https://img.shields.io/github/stars/dotnetcore/AspectCore-Framework?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/dotnetcore/AspectCore-Framework?style=for-the-badge&label=" />|
 
 # AWS
+Name| Address | Desc
+-|-|-|
+AWSSDK.SimpleEmail|[AWSSDK.SimpleEmail](https://www.nuget.org/packages/AWSSDK.SimpleEmail)|
+AWSSDK.SimpleEmailV2|[AWSSDK.SimpleEmailV2](https://www.nuget.org/packages/AWSSDK.SimpleEmailV2)|
+
+
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 AWS SDK for .NET|[aws/aws-sdk-net](https://github.com/aws/aws-sdk-net)|<img src="https://img.shields.io/github/stars/aws/aws-sdk-net?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/aws/aws-sdk-net?style=for-the-badge&label=" />|
