@@ -216,7 +216,7 @@ Name| Address| Desc
 Redirect Path|[Redirect Path](https://chromewebstore.google.com/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll)| 
 Link Redirect Trace|[Link Redirect Trace](https://chromewebstore.google.com/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh)| 
 Redirector|[Redirector](https://chromewebstore.google.com/detail/redirector/lioaeidejmlpffbndjhaameocfldlhin)| 
-
+Redirect Helper|[Redirect Helper](https://chromewebstore.google.com/detail/redirect-helper/kocheiggjmibhofomljhdjoibcbcjgnp)|
 
 # reCAPTCHA
 Name| Address | Star| Last Update| Desc
