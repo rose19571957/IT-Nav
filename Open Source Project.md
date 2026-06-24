@@ -262,7 +262,8 @@ Dpanel|[donknap/dpanel](https://github.com/donknap/dpanel)|<img src="https://img
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 Domain Admin|[dromara/domain-admin](https://github.com/dromara/domain-admin)|<img src="https://img.shields.io/github/stars/dromara/domain-admin?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/dromara/domain-admin?style=for-the-badge&label=" />|
-FreeDomain|[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|<img src="https://img.shields.io/github/stars/DigitalPlatDev/FreeDomain?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/DigitalPlatDev/FreeDomain?style=for-the-badge&label=" />|
+DigitalPlat FreeDomain  |[DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)|<img src="https://img.shields.io/github/stars/DigitalPlatDev/FreeDomain?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/DigitalPlatDev/FreeDomain?style=for-the-badge&label=" />|
+
 
 # Downloader
 File
