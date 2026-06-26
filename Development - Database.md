@@ -7,6 +7,7 @@ databasus|[databasus/databasus](https://github.com/databasus/databasus)|<img src
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 DBX|[t8y2/dbx](https://github.com/t8y2/dbx)|<img src="https://img.shields.io/github/stars/t8y2/dbx?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/t8y2/dbx?style=for-the-badge&label=" />|
+TablePro |[TableProApp/TablePro](https://github.com/TableProApp/TablePro)|<img src="https://img.shields.io/github/stars/TableProApp/TablePro?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/TableProApp/TablePro?style=for-the-badge&label=" />|
 
 
 # Database
