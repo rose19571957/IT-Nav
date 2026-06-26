@@ -14,6 +14,8 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 PostgreSQL  |[postgres/postgres](https://github.com/postgres/postgres)|<img src="https://img.shields.io/github/stars/postgres/postgres?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/postgres/postgres?style=for-the-badge&label=" />|
 Elasticsearch|[github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)|<img src="https://img.shields.io/github/stars/elastic/elasticsearch?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/elastic/elasticsearch?style=for-the-badge&label=" />|
+Turso |[tursodatabase/turso](https://github.com/tursodatabase/turso)|<img src="https://img.shields.io/github/stars/tursodatabase/turso?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/tursodatabase/turso?style=for-the-badge&label=" />|Compatible With SQLite
+
 
 Cache
 Name| Address | Star| Last Update| Desc
