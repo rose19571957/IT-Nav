@@ -129,6 +129,14 @@ Show My IP Addresses (External and Local)|[Show My IP Addresses (External and Lo
 Show IP|[Show IP](https://chromewebstore.google.com/detail/show-ip/fjoohcddncaboalamhmfdcdkimjeaclj)| 
 Hide My IP|[Hide My IP](https://chromewebstore.google.com/detail/hide-my-ip/pekcnopmdcbjdgmpnpkndppflpldnkkp)| 
 
+# Locker
+Name| Address | Desc
+-|-|-|
+ChromeLock.net|[ChromeLock.net](https://chromewebstore.google.com/detail/chrome-lock-browser-passw/dfncaoemjmmnbcfldoochfgkhenhegjl)|
+Browser Lock|[Browser Lock](https://chromewebstore.google.com/detail/browser-lock-lock-your-br/nldijlfmoepgjkjhmdiiainkjgmpdnmj)|
+Google Chrome Password lock|[Google Chrome Password lock](https://chromewebstore.google.com/detail/google-chrome-password-lo/kgaanolpnilipfmglgfmgfohpcboabic)|
+
+
 # Monitor
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
