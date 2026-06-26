@@ -35,6 +35,12 @@ Name| Address | Desc
 -|-|-|
 ChatGPT Atlas|[chatgpt.com/atlas](https://chatgpt.com/atlas)| 
 
+Cleaner Mac 
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+Mac Sai|[iliyami/MacSai](https://github.com/iliyami/MacSai)|<img src="https://img.shields.io/github/stars/iliyami/MacSai?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/iliyami/MacSai?style=for-the-badge&label=" />|
+
+
 # Developer
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
