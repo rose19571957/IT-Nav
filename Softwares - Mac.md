@@ -12,6 +12,8 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Applite|[milanvarady/Applite](https://github.com/milanvarady/Applite)|<img src="https://img.shields.io/github/stars/milanvarady/Applite?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/milanvarady/Applite?style=for-the-badge&label=" /> |
 WailBrew - Homebrew GUI Manager|[wickenico/WailBrew](https://github.com/wickenico/WailBrew)|<img src="https://img.shields.io/github/stars/wickenico/WailBrew?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/wickenico/WailBrew?style=for-the-badge&label=" />|
+pastel |[sharkdp/pastel](https://github.com/sharkdp/pastel)|<img src="https://img.shields.io/github/stars/sharkdp/pastel?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/sharkdp/pastel?style=for-the-badge&label=" />|
+
 
 Uninstall
 Name| Address |Desc
