@@ -3,6 +3,11 @@ Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 databasus|[databasus/databasus](https://github.com/databasus/databasus)|<img src="https://img.shields.io/github/stars/databasus/databasus?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/databasus/databasus?style=for-the-badge&label=" />|
 
+# Client - UI
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+DBX|[t8y2/dbx](https://github.com/t8y2/dbx)|<img src="https://img.shields.io/github/stars/t8y2/dbx?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/t8y2/dbx?style=for-the-badge&label=" />|
+
 
 # Database
 Name| Address | Star| Last Update| Desc
