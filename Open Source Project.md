@@ -767,6 +767,11 @@ Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
 WechatOnCloud|[Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud)|<img src="https://img.shields.io/github/stars/Gloridust/WechatOnCloud?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Gloridust/WechatOnCloud?style=for-the-badge&label=" />|
 
+# Wifi
+Name| Respository Address | Star| Last Update|Desc
+-|-|-|-|-|
+RuView  |[ruvnet/RuView](https://github.com/ruvnet/RuView)|<img src="https://img.shields.io/github/stars/ruvnet/RuView?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ruvnet/RuView?style=for-the-badge&label=" />|
+
 
 
 # Wiki
