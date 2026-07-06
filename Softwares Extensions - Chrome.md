@@ -316,7 +316,7 @@ Badge Notifications for MS Teams PWA|[Badge Notifications for MS Teams PWA](http
 Status
 Name| Address | Desc
 -|-|-|
-User Presence for MS Teams Web Client|[User Presence for MS Teams Web Client](https://chromewebstore.google.com/detail/user-presence-for-ms-team/hflmejmkbcfopbikokgighplfdmmkjha)| 
+User Presence for MS Teams Web Client|[User Presence for MS Teams Web Client](https://chromewebstore.google.com/detail/user-presence-for-ms-team/hflmejmkbcfopbikokgighplfdmmkjha)| Recommend
 Wiggle Teams|[Wiggle Teams](https://chromewebstore.google.com/detail/wiggle-teams/kbfceooaaajnllddlnimiddlfdhieldp)| 
 KeepTeamsAwake|[KeepTeamsAwake](https://chromewebstore.google.com/detail/keepteamsawake/acofimfooiojfhnokmddfgmlfnjnhobp)| 
 Teams Caffeine|[Teams Caffeine](https://chromewebstore.google.com/detail/teams-caffeine/ngijfjcimmlajolmohfpjegneedaflpm)| 
