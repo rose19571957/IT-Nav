@@ -6,7 +6,7 @@ databasus|[databasus/databasus](https://github.com/databasus/databasus)|<img src
 # Client - UI
 Name| Address | Desc
 -|-|-|
-pgAdmin 4|(pgAdmin 4)[https://www.pgadmin.org/download/]|PostgreSQL
+pgAdmin 4|[pgAdmin 4](https://www.pgadmin.org/download/)|PostgreSQL
 
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
