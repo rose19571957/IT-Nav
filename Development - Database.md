@@ -7,6 +7,7 @@ databasus|[databasus/databasus](https://github.com/databasus/databasus)|<img src
 Name| Address | Desc
 -|-|-|
 pgAdmin 4|[pgAdmin 4](https://www.pgadmin.org/download/)|PostgreSQL
+DBeaver|[DBeaver](https://dbeaver.io/download/)|
 
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
