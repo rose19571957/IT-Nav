@@ -151,6 +151,10 @@ KeepingYouAwake|[newmarcel/KeepingYouAwake](https://github.com/newmarcel/Keeping
 Amphetamine|[x74353/Amphetamine-Enhancer](https://github.com/x74353/Amphetamine-Enhancer)|<img src="https://img.shields.io/github/stars/x74353/Amphetamine-Enhancer?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/x74353/Amphetamine-Enhancer?style=for-the-badge&label=" />|
 
 
+# USB
+Name| Address | Star| Last Update| Desc
+-|-|-|-|-|
+WhatCable|[darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)|<img src="https://img.shields.io/github/stars/darrylmorley/whatcable?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/darrylmorley/whatcable?style=for-the-badge&label=" /> |
 
 
 # Virtual Machine
