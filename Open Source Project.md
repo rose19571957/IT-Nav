@@ -740,6 +740,12 @@ asdf|[asdf-vm/asdf](https://github.com/asdf-vm/asdf)|<img src="https://img.shiel
 nvm|[nvm-sh/nvm](https://github.com/nvm-sh/nvm)|<img src="https://img.shields.io/github/stars/nvm-sh/nvm?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/nvm-sh/nvm?style=for-the-badge&label=" />|Node Version Manager
 NVM for Windows|[coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)|<img src="https://img.shields.io/github/stars/coreybutler/nvm-windows?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/coreybutler/nvm-windows?style=for-the-badge&label=" />|Node Version Manager
 
+# Video Editing‌
+Name| Respository Address | Star| Last Update|Desc
+-|-|-|-|-|
+OpenCut  |[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)|<img src="https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/OpenCut-app/OpenCut?style=for-the-badge&label=" />|
+
+
 
 # Web & Product Analytics
 Name| Respository Address | Star| Last Update|Desc
