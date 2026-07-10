@@ -83,6 +83,7 @@ Requestly|[requestly/requestly](https://github.com/requestly/requestly)|<img src
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
 GitHub Store|[rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store)|<img src="https://img.shields.io/github/stars/rainxchzed/Github-Store?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/rainxchzed/Github-Store?style=for-the-badge&label=" />|
+Komi Store   |[kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store)|<img src="https://img.shields.io/github/stars/kurikomi-labs/komi-store?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/kurikomi-labs/komi-store?style=for-the-badge&label=" />|
 
 
 # APM
