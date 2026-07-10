@@ -716,6 +716,9 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 MTranServer|[xxnuo/MTranServer](https://github.com/xxnuo/MTranServer)|<img src="https://img.shields.io/github/stars/xxnuo/MTranServer?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/xxnuo/MTranServer?style=for-the-badge&label=" />|
 Pot  |[pot-app/pot-desktop](https://github.com/pot-app/pot-desktop)|<img src="https://img.shields.io/github/stars/pot-app/pot-desktop?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/pot-app/pot-desktop?style=for-the-badge&label=" />|
+immersive-translate  |[immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)|<img src="https://img.shields.io/github/stars/immersive-translate/immersive-translate?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/immersive-translate/immersive-translate?style=for-the-badge&label=" />|
+
+
 
 # TV
 Name| Address | Star| Last Update|Desc
