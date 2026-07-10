@@ -172,6 +172,13 @@ Jenkins  |[jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)|<img src="ht
 Dagger |[dagger/dagger](https://github.com/dagger/dagger)|<img src="https://img.shields.io/github/stars/dagger/dagger?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/dagger/dagger?style=for-the-badge&label=" />|
 
 
+# Comparator
+Name| Respository Address | Star| Last Update| Desc
+-|-|-|-|-|
+Meld  |[GNOME/meld](https://github.com/GNOME/meld)|<img src="https://img.shields.io/github/stars/GNOME/meld?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/GNOME/meld?style=for-the-badge&label=" />|
+
+
+
 # Containerization Platform
 Name| Respository Address | Star| Last Update| Desc
 -|-|-|-|-|
