@@ -530,6 +530,11 @@ Telegraf |[influxdata/telegraf](https://github.com/influxdata/telegraf)|<img src
 Chronograf |[influxdata/chronograf](https://github.com/influxdata/chronograf)|<img src="https://img.shields.io/github/stars/influxdata/chronograf?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/influxdata/chronograf?style=for-the-badge&label=" />| (TICK stack)
 Kapacitor  |[influxdata/kapacitor](https://github.com/influxdata/kapacitor)|<img src="https://img.shields.io/github/stars/influxdata/kapacitor?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/influxdata/kapacitor?style=for-the-badge&label=" />| (TICK stack)
 
+# NAS
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+iStoreOS   |[istoreos/istoreos](https://github.com/istoreos/istoreos)|<img src="https://img.shields.io/github/stars/istoreos/istoreos?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/istoreos/istoreos?style=for-the-badge&label=" />|
+
 
 # Net Disk
 Name| Address | Star| Last Update|Desc
