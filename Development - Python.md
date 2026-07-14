@@ -19,6 +19,7 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Psycopg 3 |[psycopg/psycopg](https://github.com/psycopg/psycopg)|<img src="https://img.shields.io/github/stars/psycopg/psycopg?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/psycopg/psycopg?style=for-the-badge&label=" />|PostgreSQL 
 asyncpg  |[MagicStack/asyncpg](https://github.com/MagicStack/asyncpg)|<img src="https://img.shields.io/github/stars/MagicStack/asyncpg?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/MagicStack/asyncpg?style=for-the-badge&label=" />|PostgreSQL 
+SQLAlchemy  |[sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)|<img src="https://img.shields.io/github/stars/sqlalchemy/sqlalchemy?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/sqlalchemy/sqlalchemy?style=for-the-badge&label=" />|
 
 
 # REST
@@ -28,4 +29,3 @@ FastAPI |[fastapi/fastapi](https://github.com/fastapi/fastapi)|<img src="https:/
 Django REST framework|[encode/django-rest-framework](https://github.com/encode/django-rest-framework)|<img src="https://img.shields.io/github/stars/encode/django-rest-framework?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/encode/django-rest-framework?style=for-the-badge&label=" />|
 Flask |[pallets/flask](https://github.com/pallets/flask)|<img src="https://img.shields.io/github/stars/pallets/flask?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/pallets/flask?style=for-the-badge&label=" />|
 APIFlask |[apiflask/apiflask](https://github.com/apiflask/apiflask)|<img src="https://img.shields.io/github/stars/apiflask/apiflask?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/apiflask/apiflask?style=for-the-badge&label=" />|
-SQLAlchemy  |[sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)|<img src="https://img.shields.io/github/stars/sqlalchemy/sqlalchemy?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/sqlalchemy/sqlalchemy?style=for-the-badge&label=" />|
