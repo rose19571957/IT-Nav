@@ -18,4 +18,6 @@ OpenHands|[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)|<i
 # REST
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
+FastAPI |[fastapi/fastapi](https://github.com/fastapi/fastapi)|<img src="https://img.shields.io/github/stars/fastapi/fastapi?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/fastapi/fastapi?style=for-the-badge&label=" />|
 Django REST framework|[encode/django-rest-framework](https://github.com/encode/django-rest-framework)|<img src="https://img.shields.io/github/stars/encode/django-rest-framework?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/encode/django-rest-framework?style=for-the-badge&label=" />|
+Flask |[pallets/flask](https://github.com/pallets/flask)|<img src="https://img.shields.io/github/stars/pallets/flask?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/pallets/flask?style=for-the-badge&label=" />|
