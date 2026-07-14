@@ -3,7 +3,6 @@ Python Download: [https://www.python.org/downloads](https://www.python.org/downl
 # Unclassified
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-FastAPI |[fastapi/fastapi](https://github.com/fastapi/fastapi)|<img src="https://img.shields.io/github/stars/fastapi/fastapi?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/fastapi/fastapi?style=for-the-badge&label=" />|
 Full Stack FastAPI Template  |[fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)|<img src="https://img.shields.io/github/stars/fastapi/full-stack-fastapi-template?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/fastapi/full-stack-fastapi-template?style=for-the-badge&label=" />|
 Typer |[fastapi/typer](https://github.com/fastapi/typer)|<img src="https://img.shields.io/github/stars/fastapi/typer?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/fastapi/typer?style=for-the-badge&label=" />|
 SQLModel  |[fastapi/sqlmodel](https://github.com/fastapi/sqlmodel)|<img src="https://img.shields.io/github/stars/fastapi/sqlmodel?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/fastapi/sqlmodel?style=for-the-badge&label=" />|
