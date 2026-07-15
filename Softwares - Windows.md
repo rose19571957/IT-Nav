@@ -256,6 +256,11 @@ TrafficMonitor|[zhongyang219/TrafficMonitor](https://github.com/zhongyang219/Tra
 Win Memory Cleaner|[IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)|<img src="https://img.shields.io/github/stars/IgorMundstein/WinMemoryCleaner?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/IgorMundstein/WinMemoryCleaner?style=for-the-badge&label=" />
 LiteMonitor  |[Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor)|<img src="https://img.shields.io/github/stars/Diorser/LiteMonitor?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Diorser/LiteMonitor?style=for-the-badge&label=" />|
 
+# Network
+Name| Address | Star| Last Update
+-|-|-|-|
+HypoMux  |[Hypostasis-Cat/HypoMux](https://github.com/Hypostasis-Cat/HypoMux)|<img src="https://img.shields.io/github/stars/Hypostasis-Cat/HypoMux?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Hypostasis-Cat/HypoMux?style=for-the-badge&label=" />|
+
 
 # Player
 Name| Address | Star| Last Update|Desc
