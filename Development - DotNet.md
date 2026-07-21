@@ -256,6 +256,7 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Stubble|[StubbleOrg/Stubble](https://github.com/StubbleOrg/Stubble)|<img src="https://img.shields.io/github/stars/StubbleOrg/Stubble?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/StubbleOrg/Stubble?style=for-the-badge" />| {{mustache}} templates
 Html Agility Pack|[zzzprojects/html-agility-pack](https://github.com/zzzprojects/html-agility-pack)|<img src="https://img.shields.io/github/stars/zzzprojects/html-agility-pack?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/zzzprojects/html-agility-pack?style=for-the-badge&label=" />|
+htmx |[bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)|<img src="https://img.shields.io/github/stars/bigskysoftware/htmx?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/bigskysoftware/htmx?style=for-the-badge&label=" />|
 
 # Http Client
 Name| Address | Star| Last Update
