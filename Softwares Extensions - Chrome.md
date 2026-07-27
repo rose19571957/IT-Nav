@@ -40,6 +40,11 @@ Name| Address|Desc
 Cache Killer|[Cache Killer](https://chromewebstore.google.com/detail/cache-killer/mobkodffjnomdafehbljjphjaipbenpm)| 
 Cache Disabler|[Cache Disabler](https://chromewebstore.google.com/detail/cache-disabler/kemenddblaeehafanidlkolmdgdeffbp)| 
 
+# Cleaner 
+Name| Address|Desc
+-|-|-|
+Click&Clean|[Click&Clean](https://chromewebstore.google.com/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod)|
+
 # Cookie Manager
 Name| Address|Desc
 -|-|-|
