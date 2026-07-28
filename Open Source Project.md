@@ -785,6 +785,11 @@ wx-dump-4j|[xuchengsheng/wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j)
 Chatlog  |[sjzar/chatlog](https://github.com/sjzar/chatlog)|<img src="https://img.shields.io/github/stars/sjzar/chatlog?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/sjzar/chatlog?style=for-the-badge&label=" />|
 WeChatPadPro|[WeChatPadPro/WeChatPadPro](https://github.com/WeChatPadPro/WeChatPadPro)|<img src="https://img.shields.io/github/stars/WeChatPadPro/WeChatPadPro?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/WeChatPadPro/WeChatPadPro?style=for-the-badge&label=" />|
 
+AI
+Name| Respository Address | Star| Last Update|Desc
+-|-|-|-|-|
+WeChat Claude Code Bridge|[Wechat-ggGitHub/wechat-claude-code](https://github.com/Wechat-ggGitHub/wechat-claude-code)|<img src="https://img.shields.io/github/stars/Wechat-ggGitHub/wechat-claude-code?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Wechat-ggGitHub/wechat-claude-code?style=for-the-badge&label=" />|
+
 Chats
 Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
