@@ -1,5 +1,6 @@
 Name| Respository Address | Star| Last Update|Desc
 -|-|-|-|-|
+中国独立开发者项目列表|[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)|<img src="https://img.shields.io/github/stars/1c7/chinese-independent-developer?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/1c7/chinese-independent-developer?style=for-the-badge&label=" />|
 Atlas |[Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)|<img src="https://img.shields.io/github/stars/Atlas-OS/Atlas?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Atlas-OS/Atlas?style=for-the-badge&label=" />|
 Spider|[NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)|<img src="https://img.shields.io/github/stars/NaiboWang/EasySpider?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/NaiboWang/EasySpider?style=for-the-badge&label=" />|
 JumpServer|[jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)|<img src="https://img.shields.io/github/stars/jumpserver/jumpserver?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/jumpserver/jumpserver?style=for-the-badge&label=" />|
