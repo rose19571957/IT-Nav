@@ -44,6 +44,8 @@ Cache Disabler|[Cache Disabler](https://chromewebstore.google.com/detail/cache-d
 Name| Address|Desc
 -|-|-|
 Click&Clean|[Click&Clean](https://chromewebstore.google.com/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod)|
+Click and Clean|[Click and Clean](https://chromewebstore.google.com/detail/click-and-clean/mgngmngjioknlgjjaiiamcdbahombpfb)|
+
 
 # Cookie Manager
 Name| Address|Desc
