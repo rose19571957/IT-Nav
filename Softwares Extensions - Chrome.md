@@ -8,6 +8,7 @@ ChromeAppHeroes|[github.com/zhaoolee/ChromeAppHeroes](https://github.com/zhaoole
 Name| Address | Desc
 -|-|-|
 AdBlock — block ads across the web|[AdBlock — block ads across the web](https://chromewebstore.google.com/detail/adblock-%E2%80%94-block-ads-acros/gighmmpiobklfepjocnamgkkbiglidom)|
+Ad Blocker: Stands AdBlocker|[Ad Blocker: Stands AdBlocker](https://chromewebstore.google.com/detail/ad-blocker-stands-adblock/lgblnfidahcdcjddiepkckcfdhpknnjh)|
 
 # Android APK
 Name| Address | Desc
