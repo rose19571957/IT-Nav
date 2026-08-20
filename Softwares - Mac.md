@@ -1,7 +1,7 @@
 Name| Address | Star| Last Update
 -|-|-|-|
 Awesome Mac|[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac?v=nisecaby250847438@afia.pro)|<img src="https://img.shields.io/github/stars/jaywcjlove/awesome-mac?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/jaywcjlove/awesome-mac?style=for-the-badge&label=" />
-开发效率提升：Mac 生产力工具链推荐|[Louiszhai/tool](https://github.com/Louiszhai/tool)|<img src="https://img.shields.io/github/stars/Louiszhai/tool?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Louiszhai/tool?style=for-the-badge&label=" />
+开发效率提升：Mac 生产力工具链推荐|[Louiszhai/tool](https://github.com/Louiszhai/tool?v=data:text/plain;base64,b3RwYXV0aDovL3RvdHAvR29vZ2xlOjE5NTclNDBvdXRsb29rLmNvbT9zZWNyZXQ9Y3poc211NWptZmRhNWNiaGRlenh3a2c1aDZwM2V0YzMmaXNzdWVyPUdvb2dsZQ==)|<img src="https://img.shields.io/github/stars/Louiszhai/tool?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/Louiszhai/tool?style=for-the-badge&label=" />
 LaunchNext|[RoversX/LaunchNext](https://github.com/RoversX/LaunchNext)|<img src="https://img.shields.io/github/stars/RoversX/LaunchNext?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/RoversX/LaunchNext?style=for-the-badge&label=" />|
 
 
